@@ -1,0 +1,2001 @@
+id_cliente;cognome;nome;anno_nascita;citta_residenza;data_registrazione
+1;Rossi;Luigi;1979;Palermo;2006-03-12
+2;Russo;Stefania;1986;Brescia;2013-02-03
+3;Ferrari;Antonio;1954;Palermo;2010-03-29
+4;Esposito;Giada;1989;Monza;2014-06-09
+5;Bianchi;Fabio;1980;Arezzo;2000-03-02
+6;Romano;Matteo;1951;Vicenza;2004-02-07
+7;Colombo;Angelo;1952;Palermo;2013-06-14
+8;Bruno;Silvia;1976;Salerno;2013-11-17
+9;Ricci;Pietro;1946;Firenze;2011-08-07
+10;Greco;Tommaso;1964;Genova;2003-10-21
+11;Marino;Erica;1948;Trento;2004-07-01
+12;Gallo;Debora;1953;Sassari;2014-10-04
+13;De Luca;Daniele;1989;Cesena;2000-04-03
+14;Conti;Michele;1969;Taranto;2006-06-20
+15;Costa;Jacopo;1958;Monza;2007-09-03
+16;Mancini;Valeria;1998;Genova;2010-01-14
+17;Giordano;Sara;1940;Ancona;2015-10-05
+18;Rizzo;Valentina;1962;Prato;2008-08-01
+19;Lombardi;Alex;1946;Novara;2003-08-28
+20;Barbieri;Marta;1954;Latina;2016-07-09
+21;Moretti;Nicolò;1956;Napoli;2000-12-30
+22;Fontana;Eleonora;1988;Bolzano;2006-06-23
+23;Caruso;Leonardo;1941;Vicenza;1997-08-26
+24;Mariani;Dario;1959;Bologna;1997-02-27
+25;Ferrara;Sara;2000;Giugliano in Campania;2004-10-08
+26;Santoro;Veronica;1988;Catania;1996-10-18
+27;Rinaldi;Stefano;1964;Udine;1996-10-03
+28;Leone;Vanessa;1983;Torino;2014-09-21
+29;D'Angelo;Federica;1966;Arezzo;2013-04-22
+30;Longo;Monica;1970;Cagliari;1998-03-14
+31;Galli;Enrico;1978;Ancona;2012-10-29
+32;Martini;Nicola;1995;Sassari;2006-11-23
+33;Martinelli;Beatrice;1952;Rimini;1998-01-24
+34;Serra;Paola;1978;Piacenza;2003-07-31
+35;Conte;Michela;1959;Siracusa;2017-03-13
+36;Vitale;Giulio;1996;Cagliari;2016-06-07
+37;De Santis;Gabriele;1983;Sassari;2003-11-30
+38;Marchetti;Monica;1989;Venezia;2003-09-15
+39;Messina;Sofia;1985;Reggio Emilia;2007-01-31
+40;Gentile;Chiara;1953;Napoli;1999-04-18
+41;Villa;Francesca;1961;Udine;2008-01-19
+42;Marini;Debora;1999;Latina;2014-11-15
+43;Lombardo;Valeria;1954;Udine;2001-04-10
+44;Coppola;Laura;1989;Bergamo;2008-10-29
+45;Ferri;Nicole;1966;Salerno;2015-08-30
+46;Parisi;Nicola;1956;Napoli;2006-02-07
+47;De Angelis;Giada;1981;Giugliano in Campania;2001-04-07
+48;Bianco;Enrico;1953;Arezzo;2004-11-15
+49;Amato;Debora;1988;Catania;2014-04-24
+50;Fabbri;Michele;1990;Vicenza;1999-07-03
+51;Gatti;Riccardo;1944;Cagliari;2012-03-12
+52;Sala;Luca;1975;Modena;2006-02-01
+53;Morelli;Elisa;1941;Arezzo;2004-06-16
+54;Grasso;Federica;1997;Salerno;1995-12-03
+55;Pellegrini;Giorgia;1962;Taranto;2002-12-01
+56;Ferraro;Federico;1983;Roma;2013-07-18
+57;Monti;Francesco;1982;Bolzano;2005-09-16
+58;Palumbo;Anna;1947;Genova;1998-04-27
+59;Grassi;Christian;1983;Genova;2010-06-12
+60;Testa;Erika;1980;Andria;2003-02-22
+61;Valentini;Ilaria;1990;Cagliari;1998-09-06
+62;Carbone;Roberta;1986;Siracusa;1998-12-26
+63;Benedetti;Claudio;1961;Novara;2012-04-25
+64;Silvestri;Erika;1966;Livorno;2015-12-02
+65;Farina;Salvatore;1962;Roma;1996-09-01
+66;D'Amico;Alex;1969;Bergamo;2011-11-15
+67;Martino;Domenico;1982;Bergamo;2010-04-05
+68;Bernardi;Elena;1956;Foggia;2011-11-26
+69;Caputo;Edoardo;1979;Bolzano;2009-04-05
+70;Mazza;Marco;1957;Brescia;1999-09-06
+71;Sanna;Ilaria;1981;Reggio Emilia;2001-10-27
+72;Fiore;Lucia;1987;Milano;2013-10-09
+73;De Rosa;Sara;1989;Ravenna;2011-05-10
+74;Pellegrino;Nicolò;1984;Palermo;1996-08-29
+75;Giuliani;Veronica;1977;Reggio Emilia;2003-08-19
+76;Rizzi;Manuel;1957;Forlì;2008-04-29
+77;Di Stefano;Emanuele;1988;Monza;2010-06-21
+78;Cattaneo;Jessica;1983;Foggia;1996-07-08
+79;Rossetti;Gianluca;1963;Cagliari;2015-08-17
+80;Orlando;Giulia;1998;Ferrara;2002-09-29
+81;Basile;Alessandra;1998;Arezzo;1999-01-02
+82;Neri;Silvia;1999;Milano;1996-04-11
+83;Barone;Stefania;1990;Reggio Calabria;2009-10-10
+84;Palmieri;Roberta;1959;Vicenza;1999-10-31
+85;Riva;Marco;1952;Padova;1997-05-03
+86;Romeo;Luigi;1976;Torino;2000-10-12
+87;Franco;Sara;1958;Torino;2009-10-20
+88;Sorrentino;Elena;1942;Salerno;1998-06-29
+89;Pagano;Erika;1996;Cesena;2013-07-08
+90;D'Agostino;Chiara;1940;Arezzo;2003-12-02
+91;Piras;Federica;1941;Siracusa;2015-05-13
+92;Ruggiero;Claudio;1942;Parma;1999-09-09
+93;Montanari;Laura;1999;Foggia;2008-01-03
+94;Battaglia;Gabriele;1961;Foggia;2007-12-10
+95;Bellini;Beatrice;1976;Bari;2001-10-14
+96;Castelli;Dario;1964;Latina;2013-01-16
+97;Guerra;Elisa;1980;Andria;2009-04-26
+98;Poli;Martina;1969;Messina;2001-06-15
+99;Valente;Manuel;1999;Trieste;2011-07-26
+100;Ferretti;Nicolò;1991;Udine;1999-07-12
+101;Rossi;Giuseppe;2000;Ancona;2010-12-17
+102;Russo;Sofia;1970;Bari;2003-01-13
+103;Ferrari;Stefano;1972;Arezzo;2009-12-14
+104;Esposito;Mirko;1995;Pescara;2016-03-15
+105;Bianchi;Leonardo;1956;Ferrara;2004-05-02
+106;Romano;Silvia;1969;Milano;2004-08-23
+107;Colombo;Valentina;1956;Prato;1997-05-10
+108;Bruno;Erica;1980;Milano;2012-03-09
+109;Ricci;Alice;1943;Andria;1999-02-15
+110;Greco;Jacopo;1967;Roma;2014-04-15
+111;Marino;Camilla;1996;Andria;2016-10-26
+112;Gallo;Lucia;1982;Perugia;1997-01-22
+113;De Luca;Beatrice;1956;Catania;2002-02-01
+114;Conti;Cristina;1995;Napoli;2009-09-10
+115;Costa;Debora;1964;Ancona;2011-11-25
+116;Mancini;Filippo;1968;Forlì;2006-02-12
+117;Giordano;Marco;1958;Rimini;2012-10-13
+118;Rizzo;Andrea;1967;Vicenza;2000-11-25
+119;Lombardi;Michele;1970;Taranto;1996-08-19
+120;Barbieri;Federico;1950;Udine;2005-09-01
+121;Moretti;Francesca;1986;Bolzano;2008-08-27
+122;Fontana;Laura;1982;Napoli;2001-08-02
+123;Caruso;Cristina;1993;Bergamo;2011-09-28
+124;Mariani;Alex;1949;Messina;2014-05-09
+125;Ferrara;Antonio;1958;Perugia;2013-09-01
+126;Santoro;Gaia;1943;Bologna;2010-08-22
+127;Rinaldi;Alessandro;1951;Catania;1997-07-06
+128;Leone;Edoardo;1992;Trento;1999-11-18
+129;D'Angelo;Cristina;2000;Padova;2001-01-21
+130;Longo;Fabio;1955;Terni;2010-04-20
+131;Galli;Giovanni;1947;Brescia;2006-09-02
+132;Martini;Alessia;1986;Parma;2013-05-30
+133;Martinelli;Veronica;1969;Genova;2002-08-31
+134;Serra;Chiara;1965;Modena;2000-09-21
+135;Conte;Gabriele;1996;Bergamo;2011-09-27
+136;Vitale;Stefano;1956;Trieste;1996-12-11
+137;De Santis;Paolo;1948;Monza;2015-07-15
+138;Marchetti;Gianluca;1989;Roma;2004-09-17
+139;Messina;Caterina;1989;Trento;2001-10-27
+140;Gentile;Irene;1948;Livorno;2002-11-15
+141;Villa;Simona;1971;Udine;1999-08-10
+142;Marini;Enrico;1977;Siracusa;2011-06-30
+143;Lombardo;Federica;1973;Milano;2007-12-20
+144;Coppola;Gaia;1984;Piacenza;1996-12-26
+145;Ferri;Anna;1969;Udine;2016-06-28
+146;Parisi;Gabriele;1956;Genova;2015-01-11
+147;De Angelis;Martina;1970;Prato;2012-06-05
+148;Bianco;Alessandra;1961;Prato;2003-02-05
+149;Amato;Tommaso;1990;Giugliano in Campania;2007-06-23
+150;Fabbri;Marco;1979;Andria;1996-01-30
+151;Gatti;Elena;1963;Ferrara;1999-03-19
+152;Sala;Federica;1968;Novara;2011-03-12
+153;Morelli;Fabio;1941;Reggio Emilia;2002-01-23
+154;Grasso;Mattia;1972;Reggio Calabria;2010-07-17
+155;Pellegrini;Lisa;1983;Perugia;2012-06-20
+156;Ferraro;Nicola;1964;Arezzo;2007-01-03
+157;Monti;Giorgio;1998;Reggio Emilia;2009-11-23
+158;Palumbo;Arianna;1971;Salerno;1998-09-22
+159;Grassi;Leonardo;1984;Foggia;1996-10-10
+160;Testa;Angelo;1972;Parma;2001-04-20
+161;Valentini;Edoardo;1943;Catania;2005-09-07
+162;Carbone;Silvia;1994;Milano;2011-08-24
+163;Benedetti;Giulio;1966;Udine;2015-11-18
+164;Silvestri;Gianluca;1986;Salerno;2001-03-29
+165;Farina;Laura;1977;Napoli;2003-03-16
+166;D'Amico;Enrico;1965;Roma;1997-05-27
+167;Martino;Lisa;1990;Firenze;2004-08-09
+168;Bernardi;Noemi;1941;Lecce;2013-07-13
+169;Caputo;Gaia;1974;Giugliano in Campania;2001-05-03
+170;Mazza;Simone;1952;Lecce;2008-06-04
+171;Sanna;Camilla;1978;Ferrara;2015-04-05
+172;Fiore;Nicole;1951;Bolzano;2015-05-12
+173;De Rosa;Francesco;1958;Forlì;2010-07-14
+174;Pellegrino;Alessio;1944;Vicenza;1995-11-08
+175;Giuliani;Stefano;1943;Piacenza;2003-01-20
+176;Rizzi;Martina;1949;Bologna;2008-12-16
+177;Di Stefano;Irene;1942;Pescara;2001-01-01
+178;Cattaneo;Chiara;1945;Trieste;2008-11-12
+179;Rossetti;Michela;1946;Foggia;2005-11-12
+180;Orlando;Alessio;1997;Forlì;2002-09-18
+181;Basile;Davide;1974;Giugliano in Campania;1996-11-21
+182;Neri;Caterina;1950;Bolzano;2002-12-05
+183;Barone;Simone;1984;Andria;2005-01-06
+184;Palmieri;Fabio;1951;Trieste;2001-07-01
+185;Riva;Giulia;1961;Trieste;2009-12-08
+186;Romeo;Federica;1997;Catania;1999-12-20
+187;Franco;Giacomo;1947;Napoli;2007-03-15
+188;Sorrentino;Simone;1977;Ferrara;2013-05-15
+189;Pagano;Simone;1980;Novara;2013-09-19
+190;D'Agostino;Giovanni;1981;Trieste;2002-06-04
+191;Piras;Alex;1948;Palermo;2005-10-08
+192;Ruggiero;Martina;1988;Padova;2006-04-22
+193;Montanari;Filippo;1948;Perugia;2001-09-23
+194;Battaglia;Chiara;1997;Andria;2006-11-13
+195;Bellini;Camilla;1959;Parma;1999-02-19
+196;Castelli;Filippo;1959;Perugia;2008-11-17
+197;Guerra;Matteo;1955;Bolzano;1999-08-09
+198;Poli;Dario;1959;Taranto;1999-11-15
+199;Valente;Lisa;1994;Foggia;1998-04-22
+200;Ferretti;Gaia;1966;Verona;2011-06-16
+201;Rossi;Ilaria;1942;Terni;2009-07-04
+202;Russo;Valerio;1959;Verona;2001-10-24
+203;Ferrari;Silvia;1959;Ravenna;2006-10-14
+204;Esposito;Nicolò;1955;Ancona;1998-02-17
+205;Bianchi;Alessandro;1989;Cagliari;2008-03-11
+206;Romano;Dario;1965;Cesena;2001-03-18
+207;Colombo;Riccardo;1978;Lecce;2009-04-22
+208;Bruno;Mirko;1969;Cesena;2008-12-07
+209;Ricci;Davide;1955;Trieste;2010-11-19
+210;Greco;Veronica;1969;Giugliano in Campania;1997-10-09
+211;Marino;Valerio;1946;Monza;2008-08-28
+212;Gallo;Leonardo;1953;Parma;2009-01-12
+213;De Luca;Giorgia;1962;Napoli;2013-12-26
+214;Conti;Alberto;1951;Palermo;2006-08-09
+215;Costa;Alessia;1950;Salerno;2011-05-10
+216;Mancini;Arianna;1995;Latina;2006-03-27
+217;Giordano;Domenico;1987;Napoli;2009-04-16
+218;Rizzo;Gianluca;1980;Palermo;2015-04-02
+219;Lombardi;Laura;1946;Reggio Emilia;2000-05-19
+220;Barbieri;Luca;1978;Pescara;2014-05-10
+221;Moretti;Eleonora;1957;Latina;2013-11-04
+222;Fontana;Matteo;1946;Ravenna;2013-01-21
+223;Caruso;Andrea;1966;Ravenna;2007-09-27
+224;Mariani;Claudia;2000;Piacenza;2009-07-28
+225;Ferrara;Lorenzo;1995;Piacenza;2001-01-11
+226;Santoro;Lorenzo;1959;Udine;2007-05-23
+227;Rinaldi;Vanessa;1965;Andria;2015-03-12
+228;Leone;Alessio;1959;Andria;2000-10-02
+229;D'Angelo;Giulia;1982;Catania;2006-01-13
+230;Longo;Valeria;1967;Prato;2000-09-23
+231;Galli;Pietro;1989;Pescara;1997-03-15
+232;Martini;Maria;1965;Taranto;2004-06-04
+233;Martinelli;Lucia;1974;Trento;2003-03-11
+234;Serra;Camilla;1978;Pescara;2016-11-02
+235;Conte;Luca;1942;Brescia;2009-09-26
+236;Vitale;Salvatore;1978;Genova;2002-02-11
+237;De Santis;Simona;1942;Padova;2017-02-15
+238;Marchetti;Giovanni;1980;Lecce;2010-11-12
+239;Messina;Lorenzo;1960;Ferrara;1996-06-17
+240;Gentile;Fabio;1945;Forlì;2000-12-31
+241;Villa;Christian;1974;Torino;1996-05-24
+242;Marini;Paolo;1985;Firenze;1997-09-15
+243;Lombardo;Erica;1995;Genova;2017-05-04
+244;Coppola;Alessandra;1986;Pescara;2005-12-10
+245;Ferri;Angela;1949;Terni;2007-11-22
+246;Parisi;Alessia;1960;Bolzano;1997-04-13
+247;De Angelis;Stefania;1969;Venezia;2016-11-28
+248;Bianco;Daniele;1969;Monza;1998-05-07
+249;Amato;Giuseppe;1974;Parma;1997-07-03
+250;Fabbri;Alberto;1992;Foggia;2014-08-05
+251;Gatti;Alessandro;1974;Livorno;2016-07-29
+252;Sala;Mirko;1980;Milano;2005-06-05
+253;Morelli;Camilla;1965;Reggio Emilia;2001-07-12
+254;Grasso;Giada;1988;Bari;1998-07-29
+255;Pellegrini;Serena;1976;Andria;2012-03-20
+256;Ferraro;Simona;1998;Bologna;2001-06-30
+257;Monti;Leonardo;1954;Ravenna;2004-12-25
+258;Palumbo;Jessica;1996;Giugliano in Campania;1999-11-19
+259;Grassi;Valeria;1990;Bologna;2004-02-11
+260;Testa;Alessio;1942;Novara;2009-09-29
+261;Valentini;Pietro;1994;Parma;2008-06-11
+262;Carbone;Vanessa;1975;Pescara;2005-04-12
+263;Benedetti;Emanuele;1944;Bergamo;2014-11-03
+264;Silvestri;Jacopo;1969;Bolzano;1999-12-25
+265;Farina;Antonio;1958;Giugliano in Campania;2002-07-24
+266;D'Amico;Giorgio;1984;Latina;2017-01-11
+267;Martino;Manuel;1976;Genova;1996-07-13
+268;Bernardi;Stefania;1943;Foggia;1996-10-22
+269;Caputo;Giuseppe;1985;Napoli;2005-01-14
+270;Mazza;Eleonora;1976;Andria;2013-04-04
+271;Sanna;Jessica;1974;Rimini;2005-05-27
+272;Fiore;Federica;1948;Cagliari;2011-08-16
+273;De Rosa;Ilaria;1960;Parma;2016-04-10
+274;Pellegrino;Debora;1981;Giugliano in Campania;2002-01-28
+275;Giuliani;Marco;1995;Ancona;1998-10-29
+276;Rizzi;Eleonora;1968;Bologna;2008-02-14
+277;Di Stefano;Giulio;1958;Torino;2001-08-22
+278;Cattaneo;Alessio;1956;Novara;1996-11-29
+279;Rossetti;Erika;1964;Venezia;1996-04-25
+280;Orlando;Luca;1963;Piacenza;2000-07-18
+281;Basile;Valerio;1947;Taranto;2009-01-23
+282;Neri;Erica;1951;Perugia;2008-02-10
+283;Barone;Jessica;1978;Perugia;2005-08-23
+284;Palmieri;Mirko;1955;Palermo;2011-09-15
+285;Riva;Martina;1989;Cagliari;1996-03-07
+286;Romeo;Pietro;1953;Verona;2001-10-02
+287;Franco;Francesca;1978;Modena;1999-07-03
+288;Sorrentino;Edoardo;1950;Udine;2000-09-17
+289;Pagano;Alessio;1970;Reggio Emilia;1999-10-02
+290;D'Agostino;Paolo;1991;Andria;1996-06-30
+291;Piras;Serena;1941;Cesena;1997-02-15
+292;Ruggiero;Manuel;1960;Latina;2000-01-25
+293;Montanari;Nicolò;1970;Cagliari;1999-02-12
+294;Battaglia;Jessica;1975;Milano;1996-10-10
+295;Bellini;Nicolò;1953;Palermo;2014-04-06
+296;Castelli;Cristina;1949;Modena;1996-11-27
+297;Guerra;Silvia;1979;Padova;2005-01-07
+298;Poli;Federica;1984;Livorno;2005-01-28
+299;Valente;Erica;1972;Trento;2009-01-29
+300;Ferretti;Nicole;1963;Verona;2010-09-07
+301;Rossi;Caterina;1996;Ancona;1998-06-22
+302;Russo;Vanessa;1964;Arezzo;2004-05-23
+303;Ferrari;Giovanni;1962;Giugliano in Campania;1995-12-14
+304;Esposito;Erika;1945;Catania;2009-02-05
+305;Bianchi;Eleonora;1972;Milano;2008-08-09
+306;Romano;Caterina;1983;Reggio Calabria;2015-11-20
+307;Colombo;Greta;1975;Foggia;2011-06-20
+308;Bruno;Vincenzo;1996;Latina;1996-11-24
+309;Ricci;Domenico;1941;Milano;1996-01-26
+310;Greco;Alice;1973;Trieste;1999-11-27
+311;Marino;Nicolò;1943;Palermo;2008-08-18
+312;Gallo;Andrea;1996;Parma;2016-08-31
+313;De Luca;Salvatore;1955;Modena;2004-03-31
+314;Conti;Veronica;1947;Venezia;2005-12-08
+315;Costa;Alex;1959;Bolzano;1998-04-08
+316;Mancini;Alessandra;1997;Catania;1999-10-16
+317;Giordano;Jessica;1959;Modena;2005-09-30
+318;Rizzo;Davide;2000;Lecce;1997-08-22
+319;Lombardi;Beatrice;1960;Siracusa;2003-10-29
+320;Barbieri;Luca;1984;Ferrara;2006-11-24
+321;Moretti;Riccardo;1943;Roma;2009-07-11
+322;Fontana;Francesco;1997;Cagliari;2005-03-17
+323;Caruso;Simone;1999;Genova;2013-01-14
+324;Mariani;Elisa;1995;Pescara;2003-12-21
+325;Ferrara;Vanessa;1979;Napoli;2004-01-12
+326;Santoro;Francesco;1987;Sassari;2004-05-13
+327;Rinaldi;Emanuele;1966;Bari;1998-07-20
+328;Leone;Angelo;1975;Trieste;2000-07-29
+329;D'Angelo;Arianna;1955;Genova;2004-07-11
+330;Longo;Simone;1956;Brescia;1998-06-06
+331;Galli;Alice;1982;Napoli;2000-04-29
+332;Martini;Alessandro;1955;Napoli;2004-05-30
+333;Martinelli;Federica;1979;Catania;1996-01-02
+334;Serra;Mirko;1994;Taranto;2002-12-25
+335;Conte;Gabriele;1953;Napoli;2009-04-08
+336;Vitale;Stefano;1997;Prato;2013-05-22
+337;De Santis;Giacomo;1992;Ancona;2006-02-16
+338;Marchetti;Pietro;1941;Rimini;1995-11-15
+339;Messina;Irene;1972;Roma;2017-02-01
+340;Gentile;Leonardo;1975;Salerno;2001-10-31
+341;Villa;Jessica;1966;Brescia;2016-08-10
+342;Marini;Edoardo;1949;Giugliano in Campania;2007-05-27
+343;Lombardo;Laura;1949;Milano;2016-12-22
+344;Coppola;Jessica;1983;Foggia;2002-07-23
+345;Ferri;Cristina;1964;Bolzano;1997-09-11
+346;Parisi;Irene;1942;Cagliari;2010-10-01
+347;De Angelis;Alessia;1944;Prato;2003-08-19
+348;Bianco;Marta;1978;Cagliari;1996-11-08
+349;Amato;Erica;1949;Rimini;2016-11-28
+350;Fabbri;Francesca;1974;Trieste;2007-07-24
+351;Gatti;Maria;1980;Ancona;2002-10-01
+352;Sala;Giorgia;1944;Andria;1999-02-20
+353;Morelli;Greta;1961;Monza;2003-04-01
+354;Grasso;Nicola;1957;Foggia;2003-01-04
+355;Pellegrini;Luigi;1951;Venezia;2013-08-25
+356;Ferraro;Anna;1973;Roma;2014-02-11
+357;Monti;Valentina;1945;Cagliari;2004-02-09
+358;Palumbo;Beatrice;1996;Livorno;2005-04-28
+359;Grassi;Vanessa;1949;Novara;2008-07-18
+360;Testa;Giacomo;1994;Vicenza;2006-09-19
+361;Valentini;Eleonora;1979;Palermo;2006-03-08
+362;Carbone;Alex;1986;Udine;2006-04-04
+363;Benedetti;Stefania;1995;Ancona;2006-08-06
+364;Silvestri;Veronica;1979;Cesena;2002-12-12
+365;Farina;Giorgia;1958;Siracusa;2017-02-04
+366;D'Amico;Debora;1940;Taranto;2016-07-16
+367;Martino;Erika;1950;Terni;2012-11-20
+368;Bernardi;Sofia;1969;Rimini;2001-12-04
+369;Caputo;Pietro;1983;Rimini;2013-03-14
+370;Mazza;Roberto;1986;Trieste;2007-10-10
+371;Sanna;Sara;1949;Novara;2007-08-06
+372;Fiore;Angelo;1940;Napoli;2012-11-04
+373;De Rosa;Alessia;1997;Udine;2002-11-22
+374;Pellegrino;Cristina;1968;Cagliari;2015-01-18
+375;Giuliani;Angela;1980;Trieste;2012-05-11
+376;Rizzi;Michele;1993;Bergamo;2014-02-05
+377;Di Stefano;Giorgia;1971;Verona;2012-05-01
+378;Cattaneo;Noemi;1999;Padova;2010-08-20
+379;Rossetti;Paolo;1959;Trieste;1999-06-25
+380;Orlando;Vanessa;1955;Bergamo;2007-05-01
+381;Basile;Paolo;1951;Modena;2014-11-08
+382;Neri;Alex;1986;Verona;1997-07-10
+383;Barone;Maria;1959;Taranto;2012-04-12
+384;Palmieri;Jacopo;1972;Trieste;2003-04-16
+385;Riva;Gianluca;1955;Bolzano;2016-10-26
+386;Romeo;Valeria;1961;Bergamo;2006-09-05
+387;Franco;Alessio;1944;Bologna;2000-08-05
+388;Sorrentino;Marta;1962;Foggia;2002-12-18
+389;Pagano;Michela;1955;Bergamo;2016-09-11
+390;D'Agostino;Angelo;1955;Padova;2011-09-23
+391;Piras;Michela;1943;Taranto;2012-05-18
+392;Ruggiero;Serena;1993;Venezia;2017-06-14
+393;Montanari;Elena;1955;Reggio Calabria;2009-08-22
+394;Battaglia;Angela;1951;Ferrara;2013-07-19
+395;Bellini;Alice;1982;Palermo;1997-04-20
+396;Castelli;Paola;1971;Firenze;2006-10-21
+397;Guerra;Alberto;1993;Livorno;2000-08-24
+398;Poli;Filippo;1950;Reggio Calabria;2011-08-29
+399;Valente;Mattia;1946;Verona;2006-08-09
+400;Ferretti;Veronica;1961;Ravenna;2017-05-09
+401;Rossi;Alex;1973;Napoli;1996-07-25
+402;Russo;Angelo;1940;Bologna;1999-07-11
+403;Ferrari;Luigi;1974;Salerno;2002-04-18
+404;Esposito;Gianluca;1982;Arezzo;2016-05-17
+405;Bianchi;Mirko;1947;Piacenza;1998-12-16
+406;Romano;Nicola;1986;Vicenza;2017-01-21
+407;Colombo;Debora;1958;Trieste;2010-10-16
+408;Bruno;Christian;1956;Ancona;2015-11-04
+409;Ricci;Giacomo;1950;Giugliano in Campania;2014-06-12
+410;Greco;Alberto;1990;Napoli;2017-01-21
+411;Marino;Stefania;1940;Cesena;2005-11-04
+412;Gallo;Anna;1980;Padova;1999-08-26
+413;De Luca;Mattia;1955;Cesena;1996-12-10
+414;Conti;Claudio;1994;Ancona;2005-04-12
+415;Costa;Andrea;1955;Terni;2004-01-08
+416;Mancini;Salvatore;1988;Roma;2009-03-08
+417;Giordano;Salvatore;1957;Lecce;2005-08-23
+418;Rizzo;Francesco;1962;Napoli;2014-02-01
+419;Lombardi;Marco;1997;Rimini;2004-03-29
+420;Barbieri;Beatrice;1997;Reggio Calabria;2017-05-23
+421;Moretti;Matteo;1946;Ferrara;2008-05-23
+422;Fontana;Roberto;1971;Cagliari;2010-12-04
+423;Caruso;Vincenzo;1983;Modena;2017-03-30
+424;Mariani;Silvia;1967;Livorno;2013-05-31
+425;Ferrara;Erica;1990;Novara;2008-11-06
+426;Santoro;Claudio;1943;Piacenza;2005-09-20
+427;Rinaldi;Marco;1966;Foggia;2005-10-23
+428;Leone;Alessia;1969;Piacenza;2012-04-29
+429;D'Angelo;Gabriele;1976;Venezia;2003-11-18
+430;Longo;Lisa;1951;Messina;1996-01-23
+431;Galli;Michela;1981;Padova;1997-05-16
+432;Martini;Anna;1945;Milano;2007-07-26
+433;Martinelli;Michele;1976;Cesena;2017-03-27
+434;Serra;Michele;1964;Vicenza;2009-06-17
+435;Conte;Irene;1966;Ancona;2003-05-07
+436;Vitale;Francesca;1942;Foggia;2001-05-07
+437;De Santis;Anna;1951;Latina;1999-11-28
+438;Marchetti;Erika;1982;Prato;2003-04-29
+439;Messina;Lucia;1972;Bologna;2015-11-26
+440;Gentile;Nicole;1942;Verona;2010-04-10
+441;Villa;Lisa;1974;Livorno;1999-11-08
+442;Marini;Dario;1942;Reggio Emilia;1999-11-18
+443;Lombardo;Giada;1953;Foggia;2008-07-04
+444;Coppola;Maria;1984;Bolzano;2013-07-08
+445;Ferri;Stefania;1943;Milano;2000-02-18
+446;Parisi;Marta;1979;Siracusa;2010-03-29
+447;De Angelis;Alberto;1945;Cesena;2000-06-24
+448;Bianco;Claudia;1972;Firenze;2004-04-24
+449;Amato;Chiara;1950;Genova;2004-06-06
+450;Fabbri;Alessia;1952;Novara;2017-03-07
+451;Gatti;Lucia;1969;Arezzo;1999-04-15
+452;Sala;Giulia;1945;Parma;2014-09-09
+453;Morelli;Lucia;1974;Siracusa;2004-05-31
+454;Grasso;Francesco;1974;Trieste;1999-11-25
+455;Pellegrini;Tommaso;1949;Trieste;2017-06-04
+456;Ferraro;Marta;2000;Ravenna;1999-01-15
+457;Monti;Irene;1957;Ferrara;2001-04-12
+458;Palumbo;Gaia;1948;Reggio Calabria;2006-08-25
+459;Grassi;Lorenzo;1988;Forlì;2000-10-04
+460;Testa;Serena;1998;Rimini;2005-11-14
+461;Valentini;Claudia;1953;Bolzano;2000-05-05
+462;Carbone;Greta;1943;Venezia;2004-10-07
+463;Benedetti;Matteo;1960;Brescia;2012-06-02
+464;Silvestri;Luigi;1989;Cagliari;2007-02-06
+465;Farina;Gaia;1949;Palermo;2013-02-26
+466;D'Amico;Daniele;1960;Siracusa;2016-07-10
+467;Martino;Lisa;1952;Venezia;1996-07-10
+468;Bernardi;Simona;1959;Ancona;2013-09-15
+469;Caputo;Marta;1985;Milano;2004-09-24
+470;Mazza;Salvatore;1978;Taranto;2009-02-24
+471;Sanna;Eleonora;1979;Parma;2015-04-05
+472;Fiore;Martina;1947;Terni;2003-04-22
+473;De Rosa;Jacopo;1978;Udine;2013-04-20
+474;Pellegrino;Nicola;1982;Venezia;2002-06-07
+475;Giuliani;Giuseppe;1947;Taranto;2001-11-04
+476;Rizzi;Erica;1955;Vicenza;2015-02-13
+477;Di Stefano;Leonardo;1978;Prato;2007-12-08
+478;Cattaneo;Angela;1970;Piacenza;2011-06-06
+479;Rossetti;Enrico;1944;Andria;2017-04-02
+480;Orlando;Domenico;1970;Vicenza;2006-02-19
+481;Basile;Arianna;1997;Lecce;2008-07-23
+482;Neri;Irene;1978;Cagliari;1997-09-15
+483;Barone;Irene;1991;Andria;2012-12-22
+484;Palmieri;Domenico;1961;Torino;2002-06-15
+485;Riva;Filippo;1994;Forlì;2000-10-17
+486;Romeo;Serena;1946;Lecce;2003-05-15
+487;Franco;Alessia;1960;Sassari;2012-02-29
+488;Sorrentino;Greta;1997;Forlì;2008-04-12
+489;Pagano;Anna;1967;Cagliari;2015-06-26
+490;D'Agostino;Cristina;1970;Modena;2016-10-06
+491;Piras;Marta;1942;Parma;2011-10-12
+492;Ruggiero;Tommaso;1975;Arezzo;2006-06-03
+493;Montanari;Emanuele;1953;Brescia;1999-04-05
+494;Battaglia;Lisa;1994;Padova;1999-05-25
+495;Bellini;Valerio;1964;Padova;1996-08-07
+496;Castelli;Riccardo;1973;Forlì;2015-03-25
+497;Guerra;Mattia;1949;Firenze;2003-07-14
+498;Poli;Giada;1997;Sassari;2015-08-10
+499;Valente;Emanuele;1945;Novara;2012-07-17
+500;Ferretti;Matteo;1996;Venezia;1998-08-07
+501;Rossi;Riccardo;1957;Trento;1997-05-01
+502;Russo;Gaia;1971;Parma;2006-07-19
+503;Ferrari;Sara;1955;Taranto;2012-05-30
+504;Esposito;Filippo;1991;Venezia;1997-04-22
+505;Bianchi;Tommaso;1951;Genova;2006-03-17
+506;Romano;Valerio;1955;Bolzano;2012-01-25
+507;Colombo;Chiara;1940;Lecce;2017-05-15
+508;Bruno;Greta;1969;Venezia;2001-11-08
+509;Ricci;Veronica;1992;Siracusa;2010-02-05
+510;Greco;Antonio;1958;Messina;1997-06-18
+511;Marino;Greta;1940;Trieste;2016-11-04
+512;Gallo;Ilaria;1957;Reggio Calabria;2009-08-19
+513;De Luca;Elisa;1960;Forlì;2017-09-16
+514;Conti;Valerio;1941;Novara;2012-08-05
+515;Costa;Fabio;1998;Reggio Emilia;2000-08-22
+516;Mancini;Giulia;1960;Udine;2008-08-08
+517;Giordano;Nicolò;1990;Trieste;2001-10-02
+518;Rizzo;Alessio;1985;Genova;2003-06-03
+519;Lombardi;Jessica;1998;Bergamo;2010-12-17
+520;Barbieri;Silvia;1952;Bergamo;2002-11-02
+521;Moretti;Giorgio;1995;Rimini;2004-07-14
+522;Fontana;Caterina;1975;Bergamo;2002-11-07
+523;Caruso;Vincenzo;1981;Livorno;2003-08-16
+524;Mariani;Paola;1989;Cesena;2012-08-12
+525;Ferrara;Riccardo;1950;Trieste;2000-07-12
+526;Santoro;Dario;1961;Lecce;2014-07-30
+527;Rinaldi;Claudio;1951;Venezia;2010-02-26
+528;Leone;Gaia;1994;Trento;2010-03-04
+529;D'Angelo;Monica;1972;Verona;2008-09-29
+530;Longo;Erica;1975;Livorno;2015-05-11
+531;Galli;Giorgio;1984;Bologna;2000-05-19
+532;Martini;Antonio;1986;Latina;2001-06-01
+533;Martinelli;Serena;1963;Padova;2000-03-31
+534;Serra;Simone;1965;Andria;2014-11-02
+535;Conte;Eleonora;1954;Torino;2011-05-27
+536;Vitale;Andrea;1976;Palermo;2007-10-24
+537;De Santis;Paola;1971;Brescia;2008-03-28
+538;Marchetti;Roberta;1940;Venezia;2001-11-12
+539;Messina;Leonardo;1962;Messina;2016-06-09
+540;Gentile;Irene;1951;Taranto;2007-10-17
+541;Villa;Debora;1962;Foggia;2016-03-09
+542;Marini;Francesco;1964;Trento;2012-04-06
+543;Lombardo;Sara;1970;Palermo;2010-10-16
+544;Coppola;Francesca;1988;Rimini;2017-05-24
+545;Ferri;Stefano;1960;Cagliari;2017-01-28
+546;Parisi;Mirko;1946;Messina;1996-10-29
+547;De Angelis;Valeria;2000;Torino;2007-10-31
+548;Bianco;Eleonora;1946;Cagliari;2013-08-02
+549;Amato;Cristina;1960;Terni;1997-06-11
+550;Fabbri;Beatrice;1999;Livorno;2008-01-26
+551;Gatti;Tommaso;1956;Modena;2017-08-27
+552;Sala;Greta;1983;Trieste;2001-06-02
+553;Morelli;Noemi;1986;Prato;2007-10-04
+554;Grasso;Salvatore;1973;Monza;2005-04-30
+555;Pellegrini;Marta;1999;Vicenza;2015-07-29
+556;Ferraro;Lorenzo;1978;Siracusa;2014-08-27
+557;Monti;Angelo;1974;Sassari;2001-03-23
+558;Palumbo;Marta;1980;Ferrara;2008-02-14
+559;Grassi;Greta;1983;Reggio Calabria;2010-09-17
+560;Testa;Paola;1976;Napoli;2000-10-24
+561;Valentini;Laura;1988;Foggia;2017-02-19
+562;Carbone;Antonio;1954;Giugliano in Campania;2016-11-17
+563;Benedetti;Irene;1963;Rimini;2010-12-19
+564;Silvestri;Giovanni;1948;Milano;2000-04-09
+565;Farina;Edoardo;1987;Reggio Calabria;2012-08-06
+566;D'Amico;Marta;1941;Padova;2005-10-25
+567;Martino;Paola;1989;Forlì;1999-12-16
+568;Bernardi;Angela;1948;Reggio Calabria;2013-08-08
+569;Caputo;Anna;1972;Arezzo;1997-03-05
+570;Mazza;Giorgia;1996;Trieste;2006-01-20
+571;Sanna;Gaia;1987;Parma;1997-03-31
+572;Fiore;Roberta;1940;Livorno;2015-02-14
+573;De Rosa;Salvatore;1987;Giugliano in Campania;2006-03-19
+574;Pellegrino;Nicole;1941;Latina;2000-09-03
+575;Giuliani;Veronica;1947;Modena;1996-12-21
+576;Rizzi;Giorgia;1959;Cesena;2017-06-14
+577;Di Stefano;Valentina;1968;Forlì;2005-11-21
+578;Cattaneo;Nicole;1944;Venezia;1996-08-03
+579;Rossetti;Jessica;1982;Siracusa;2001-02-07
+580;Orlando;Davide;1953;Cesena;2000-07-29
+581;Basile;Giovanni;1957;Andria;2013-04-06
+582;Neri;Cristina;1975;Pescara;2003-07-06
+583;Barone;Alessandra;1985;Parma;1996-09-27
+584;Palmieri;Daniele;1994;Foggia;1999-09-28
+585;Riva;Domenico;1991;Salerno;2016-08-10
+586;Romeo;Leonardo;1970;Cagliari;2010-10-17
+587;Franco;Simona;1989;Palermo;2009-03-16
+588;Sorrentino;Alessandro;1980;Firenze;2017-01-01
+589;Pagano;Giulio;1968;Firenze;2012-06-07
+590;D'Agostino;Christian;1991;Venezia;2015-04-13
+591;Piras;Roberto;1981;Arezzo;2016-10-08
+592;Ruggiero;Paolo;1958;Lecce;1996-10-08
+593;Montanari;Lisa;1988;Bari;2006-09-12
+594;Battaglia;Alessandro;1964;Venezia;2015-03-11
+595;Bellini;Martina;1983;Trento;2002-08-13
+596;Castelli;Tommaso;1985;Pescara;2000-12-16
+597;Guerra;Nicola;1986;Padova;2004-05-03
+598;Poli;Arianna;1990;Catania;2016-05-05
+599;Valente;Alessio;1961;Taranto;2007-10-02
+600;Ferretti;Riccardo;1984;Trento;2014-03-13
+601;Rossi;Christian;1999;Verona;2011-12-15
+602;Russo;Jessica;1947;Sassari;2010-05-23
+603;Ferrari;Antonio;1984;Bari;2000-04-01
+604;Esposito;Giada;1969;Giugliano in Campania;2006-01-09
+605;Bianchi;Federico;1956;Piacenza;2010-03-03
+606;Romano;Luigi;1959;Salerno;1997-08-29
+607;Colombo;Vincenzo;1961;Giugliano in Campania;2016-08-12
+608;Bruno;Alessia;1958;Roma;2002-12-22
+609;Ricci;Erika;1961;Siracusa;2016-08-10
+610;Greco;Valentina;1942;Ravenna;1997-05-09
+611;Marino;Andrea;1976;Bergamo;2015-05-04
+612;Gallo;Riccardo;1946;Milano;1999-07-07
+613;De Luca;Alessandra;1993;Arezzo;2012-11-08
+614;Conti;Ilaria;1969;Trento;2010-09-16
+615;Costa;Gabriele;1966;Vicenza;2012-11-15
+616;Mancini;Gianluca;1960;Ancona;2010-06-04
+617;Giordano;Christian;1978;Piacenza;2001-04-28
+618;Rizzo;Debora;1994;Reggio Emilia;2014-01-27
+619;Lombardi;Lorenzo;1999;Giugliano in Campania;1998-03-29
+620;Barbieri;Giulia;1989;Firenze;2014-09-25
+621;Moretti;Paolo;1992;Novara;1996-09-16
+622;Fontana;Emanuele;1959;Livorno;1997-02-25
+623;Caruso;Michela;1987;Sassari;2011-05-25
+624;Mariani;Marco;1954;Verona;2003-09-20
+625;Ferrara;Daniele;1956;Pescara;2012-12-12
+626;Santoro;Davide;2000;Bolzano;2000-08-01
+627;Rinaldi;Fabio;1984;Giugliano in Campania;2000-11-27
+628;Leone;Paola;1979;Torino;2010-06-14
+629;D'Angelo;Giuseppe;1994;Livorno;2009-01-04
+630;Longo;Arianna;1945;Sassari;1996-05-07
+631;Galli;Alessio;1986;Piacenza;2010-11-02
+632;Martini;Vanessa;1984;Cagliari;1996-04-17
+633;Martinelli;Giorgio;1959;Trieste;2016-05-26
+634;Serra;Alessia;1945;Terni;2001-02-02
+635;Conte;Paola;1964;Firenze;2013-08-23
+636;Vitale;Marco;1965;Trieste;2006-06-06
+637;De Santis;Gabriele;1979;Reggio Calabria;2000-04-13
+638;Marchetti;Fabio;1992;Ferrara;2006-06-05
+639;Messina;Sofia;1995;Reggio Emilia;2000-04-22
+640;Gentile;Antonio;1954;Milano;2011-02-23
+641;Villa;Alessia;1958;Latina;2015-05-18
+642;Marini;Riccardo;1975;Bologna;1998-11-25
+643;Lombardo;Anna;1985;Messina;1997-08-19
+644;Coppola;Nicola;1984;Milano;1999-08-21
+645;Ferri;Salvatore;1999;Pescara;2008-09-02
+646;Parisi;Michela;1981;Piacenza;1999-12-14
+647;De Angelis;Giovanni;1951;Forlì;2002-06-06
+648;Bianco;Edoardo;1948;Terni;2008-04-29
+649;Amato;Giuseppe;1955;Ancona;2011-11-06
+650;Fabbri;Martina;1965;Firenze;2012-01-22
+651;Gatti;Angela;1968;Cesena;1998-04-30
+652;Sala;Andrea;1995;Cesena;2007-01-07
+653;Morelli;Simona;2000;Livorno;2005-06-30
+654;Grasso;Emanuele;1964;Perugia;2013-04-08
+655;Pellegrini;Gaia;1991;Ancona;2006-07-06
+656;Ferraro;Stefano;1993;Vicenza;2014-10-03
+657;Monti;Michele;1976;Arezzo;2011-01-16
+658;Palumbo;Valerio;1949;Torino;1997-04-23
+659;Grassi;Roberta;1972;Terni;2003-09-05
+660;Testa;Alice;1950;Reggio Emilia;1999-11-06
+661;Valentini;Michele;1945;Roma;2006-10-22
+662;Carbone;Erika;1987;Bari;2007-08-20
+663;Benedetti;Chiara;1967;Livorno;1996-12-06
+664;Silvestri;Veronica;1969;Terni;2007-04-23
+665;Farina;Federica;2000;Lecce;2006-09-28
+666;D'Amico;Laura;1991;Reggio Emilia;2001-07-27
+667;Martino;Vanessa;1979;Livorno;1998-10-16
+668;Bernardi;Matteo;1958;Firenze;2001-10-10
+669;Caputo;Simona;1971;Cagliari;1996-11-22
+670;Mazza;Caterina;1942;Firenze;2007-01-07
+671;Sanna;Nicola;1983;Padova;2007-05-29
+672;Fiore;Francesco;1956;Bologna;2004-09-08
+673;De Rosa;Noemi;1941;Salerno;2013-02-04
+674;Pellegrino;Elisa;1973;Siracusa;2011-10-13
+675;Giuliani;Veronica;1941;Pescara;1999-10-13
+676;Rizzi;Valentina;1959;Palermo;2000-06-11
+677;Di Stefano;Lorenzo;1980;Prato;2015-05-29
+678;Cattaneo;Sofia;1956;Messina;2005-11-27
+679;Rossetti;Lorenzo;1974;Siracusa;2006-02-02
+680;Orlando;Paolo;1942;Giugliano in Campania;2004-04-22
+681;Basile;Ilaria;1956;Catania;2008-07-11
+682;Neri;Sofia;1969;Messina;2007-04-14
+683;Barone;Andrea;1955;Verona;2006-09-20
+684;Palmieri;Alessio;1966;Prato;2006-09-24
+685;Riva;Paola;1995;Parma;2003-05-27
+686;Romeo;Erica;1996;Lecce;2016-07-14
+687;Franco;Manuel;1992;Trieste;2001-12-30
+688;Sorrentino;Camilla;1982;Ferrara;2015-01-04
+689;Pagano;Valerio;1965;Livorno;2001-04-10
+690;D'Agostino;Silvia;1959;Ancona;2017-03-03
+691;Piras;Sofia;1948;Arezzo;1997-01-13
+692;Ruggiero;Roberta;1974;Terni;2008-04-12
+693;Montanari;Federico;1968;Ancona;2009-07-30
+694;Battaglia;Jacopo;1941;Napoli;2014-09-08
+695;Bellini;Angelo;1951;Ravenna;2003-09-26
+696;Castelli;Alex;1986;Milano;2007-02-01
+697;Guerra;Erika;1956;Trieste;2003-06-29
+698;Poli;Camilla;1957;Palermo;2012-04-03
+699;Valente;Stefano;1943;Piacenza;2004-01-30
+700;Ferretti;Salvatore;1992;Palermo;2014-12-29
+701;Rossi;Mirko;1951;Cagliari;2016-04-11
+702;Russo;Nicola;1957;Terni;1997-02-05
+703;Ferrari;Gabriele;1975;Ravenna;2004-11-05
+704;Esposito;Monica;1996;Ravenna;2008-12-20
+705;Bianchi;Alessandro;1990;Pescara;2005-10-23
+706;Romano;Mirko;1944;Padova;2001-06-08
+707;Colombo;Beatrice;1967;Piacenza;2004-07-30
+708;Bruno;Andrea;1949;Modena;1998-02-11
+709;Ricci;Mattia;1965;Trento;2000-01-16
+710;Greco;Marta;1954;Bari;2017-04-17
+711;Marino;Sofia;1987;Ancona;2010-07-23
+712;Gallo;Gabriele;1989;Padova;2000-10-01
+713;De Luca;Giulia;1971;Bolzano;2013-12-19
+714;Conti;Alessandra;1974;Forlì;2016-05-20
+715;Costa;Giuseppe;1948;Latina;2016-03-22
+716;Mancini;Angelo;1950;Reggio Calabria;2003-08-21
+717;Giordano;Ilaria;1989;Pescara;2006-06-19
+718;Rizzo;Fabio;1980;Cesena;2009-12-11
+719;Lombardi;Matteo;1977;Pescara;2000-11-03
+720;Barbieri;Giacomo;1945;Venezia;2015-10-13
+721;Moretti;Enrico;1989;Padova;2014-01-10
+722;Fontana;Simone;1970;Cesena;2014-07-23
+723;Caruso;Eleonora;1945;Latina;2016-01-28
+724;Mariani;Stefania;1976;Roma;2011-11-10
+725;Ferrara;Debora;1974;Vicenza;2003-11-20
+726;Santoro;Giulio;1990;Reggio Emilia;1997-04-14
+727;Rinaldi;Paola;1995;Catania;2000-05-12
+728;Leone;Arianna;1940;Genova;1998-03-02
+729;D'Angelo;Matteo;1995;Forlì;2007-03-20
+730;Longo;Pietro;1959;Catania;2008-08-18
+731;Galli;Gabriele;1987;Messina;2008-05-22
+732;Martini;Elena;1981;Sassari;2006-10-13
+733;Martinelli;Stefania;1947;Milano;2009-07-18
+734;Serra;Pietro;1995;Cagliari;2010-08-21
+735;Conte;Stefano;1984;Genova;2013-01-11
+736;Vitale;Andrea;1992;Cagliari;2007-02-03
+737;De Santis;Cristina;1982;Pescara;2003-05-24
+738;Marchetti;Riccardo;1959;Bolzano;2017-02-20
+739;Messina;Monica;1985;Latina;2009-01-13
+740;Gentile;Giulio;1986;Prato;2010-06-06
+741;Villa;Alessandra;1948;Milano;1999-07-16
+742;Marini;Christian;1985;Livorno;2011-12-22
+743;Lombardo;Alice;1970;Foggia;2014-12-01
+744;Coppola;Claudia;1960;Trento;2010-12-01
+745;Ferri;Maria;1963;Bolzano;1999-12-01
+746;Parisi;Noemi;1973;Piacenza;2012-09-20
+747;De Angelis;Monica;1997;Roma;2014-06-22
+748;Bianco;Manuel;1947;Ravenna;1997-12-18
+749;Amato;Mirko;1992;Trieste;2007-09-19
+750;Fabbri;Ilaria;1966;Latina;2006-12-11
+751;Gatti;Christian;1990;Livorno;2005-12-23
+752;Sala;Alessandra;1986;Padova;2006-02-16
+753;Morelli;Domenico;1950;Milano;2016-12-08
+754;Grasso;Daniele;1993;Ravenna;2006-08-21
+755;Pellegrini;Gianluca;1990;Rimini;2012-03-09
+756;Ferraro;Federica;1976;Verona;2006-01-15
+757;Monti;Anna;1958;Cagliari;1997-07-31
+758;Palumbo;Alex;1941;Perugia;2016-11-06
+759;Grassi;Alessio;1964;Andria;2005-07-12
+760;Testa;Beatrice;1971;Milano;2008-01-13
+761;Valentini;Alessandro;1995;Ancona;2007-10-13
+762;Carbone;Erika;1983;Bologna;2004-06-10
+763;Benedetti;Alberto;1948;Livorno;2001-03-04
+764;Silvestri;Maria;1944;Genova;1998-10-28
+765;Farina;Lorenzo;1993;Pescara;2017-03-25
+766;D'Amico;Alessia;1944;Udine;2005-04-10
+767;Martino;Debora;1977;Firenze;2006-03-09
+768;Bernardi;Alice;1990;Messina;2015-07-13
+769;Caputo;Valerio;1984;Brescia;2002-06-11
+770;Mazza;Federico;1974;Andria;2012-02-16
+771;Sanna;Maria;1940;Taranto;2011-11-02
+772;Fiore;Monica;2000;Genova;1997-12-03
+773;De Rosa;Gaia;1971;Sassari;2003-06-10
+774;Pellegrino;Cristina;1976;Napoli;1996-08-07
+775;Giuliani;Erica;1997;Foggia;2005-06-26
+776;Rizzi;Sara;1980;Taranto;2005-12-22
+777;Di Stefano;Paola;1974;Lecce;2005-08-08
+778;Cattaneo;Jacopo;1998;Sassari;1998-05-09
+779;Rossetti;Tommaso;1953;Rimini;2005-09-20
+780;Orlando;Edoardo;1941;Udine;2016-08-27
+781;Basile;Simone;1957;Ravenna;2000-12-20
+782;Neri;Alberto;1981;Trento;2010-09-22
+783;Barone;Arianna;1974;Bari;2010-05-02
+784;Palmieri;Luigi;1956;Terni;2015-05-22
+785;Riva;Valentina;1953;Ancona;2009-04-07
+786;Romeo;Lisa;1944;Piacenza;1997-12-10
+787;Franco;Paola;1990;Siracusa;1996-10-14
+788;Sorrentino;Matteo;1965;Catania;2008-11-23
+789;Pagano;Enrico;1997;Vicenza;2016-05-16
+790;D'Agostino;Davide;1992;Novara;2000-05-29
+791;Piras;Stefania;1950;Bergamo;1999-12-16
+792;Ruggiero;Angelo;1966;Padova;2016-12-15
+793;Montanari;Anna;1986;Trieste;2013-09-02
+794;Battaglia;Luca;1944;Livorno;2004-11-19
+795;Bellini;Manuel;1992;Ancona;1998-01-01
+796;Castelli;Andrea;1956;Piacenza;2004-07-06
+797;Guerra;Elena;1940;Pescara;2004-06-07
+798;Poli;Paolo;1959;Ancona;2005-12-09
+799;Valente;Roberto;1978;Messina;1996-06-12
+800;Ferretti;Daniele;1998;Udine;2012-08-11
+801;Rossi;Roberta;1985;Monza;2000-12-27
+802;Russo;Alessandra;1983;Pescara;2013-05-30
+803;Ferrari;Manuel;1946;Trento;2008-05-15
+804;Esposito;Luigi;1950;Verona;2001-06-13
+805;Bianchi;Alessandra;1980;Foggia;2003-03-20
+806;Romano;Veronica;1943;Salerno;2000-08-31
+807;Colombo;Sofia;1972;Messina;2005-06-19
+808;Bruno;Paolo;1972;Rimini;2002-03-01
+809;Ricci;Roberto;1986;Novara;2014-07-16
+810;Greco;Domenico;1983;Sassari;2009-08-04
+811;Marino;Claudio;1978;Terni;2002-12-15
+812;Gallo;Vincenzo;1973;Reggio Calabria;2006-04-11
+813;De Luca;Alex;1953;Lecce;2002-12-18
+814;Conti;Enrico;1977;Bolzano;2008-10-24
+815;Costa;Filippo;1978;Prato;2014-04-18
+816;Mancini;Claudia;1947;Terni;2005-11-02
+817;Giordano;Silvia;1961;Bolzano;1997-03-24
+818;Rizzo;Lisa;1998;Rimini;2009-02-11
+819;Lombardi;Gaia;1988;Trieste;1997-08-11
+820;Barbieri;Daniele;1999;Trento;1996-09-18
+821;Moretti;Camilla;1984;Ravenna;2004-12-22
+822;Fontana;Vincenzo;1968;Salerno;2016-10-21
+823;Caruso;Giuseppe;1942;Catania;1999-12-31
+824;Mariani;Emanuele;1941;Udine;2000-02-19
+825;Ferrara;Nicole;1985;Cagliari;1996-08-29
+826;Santoro;Vincenzo;1953;Bari;2010-09-19
+827;Rinaldi;Francesca;1955;Salerno;2003-07-10
+828;Leone;Eleonora;1965;Udine;1997-05-18
+829;D'Angelo;Andrea;1962;Forlì;2010-01-06
+830;Longo;Alessandra;1966;Reggio Emilia;1997-01-24
+831;Galli;Claudia;1949;Foggia;1996-09-06
+832;Martini;Elena;1985;Cesena;2014-04-18
+833;Martinelli;Leonardo;1957;Reggio Emilia;2002-04-03
+834;Serra;Luca;1974;Salerno;2008-12-07
+835;Conte;Alice;1980;Cesena;2017-08-10
+836;Vitale;Paola;1983;Reggio Emilia;1999-02-13
+837;De Santis;Giorgia;1985;Sassari;2001-03-09
+838;Marchetti;Veronica;1991;Giugliano in Campania;2005-04-15
+839;Messina;Michele;1940;Trento;2002-12-29
+840;Gentile;Alessia;1952;Cesena;2016-09-28
+841;Villa;Fabio;1981;Foggia;2013-07-26
+842;Marini;Sara;1986;Taranto;1999-12-02
+843;Lombardo;Pietro;1972;Ravenna;2001-12-16
+844;Coppola;Sofia;1960;Prato;2002-09-24
+845;Ferri;Simone;1972;Andria;1997-05-21
+846;Parisi;Martina;1953;Siracusa;2000-04-28
+847;De Angelis;Caterina;1987;Bergamo;2016-09-06
+848;Bianco;Stefania;1947;Cagliari;2012-05-24
+849;Amato;Christian;1942;Brescia;2011-03-27
+850;Fabbri;Gabriele;1950;Ancona;2010-07-21
+851;Gatti;Antonio;1950;Ancona;2008-01-27
+852;Sala;Claudia;1962;Ferrara;1999-07-29
+853;Morelli;Alice;1945;Terni;2007-11-15
+854;Grasso;Serena;1988;Messina;2008-02-05
+855;Pellegrini;Filippo;1966;Piacenza;2012-10-18
+856;Ferraro;Antonio;1991;Roma;2013-04-07
+857;Monti;Domenico;1950;Monza;2011-01-02
+858;Palumbo;Giada;1976;Catania;2001-04-17
+859;Grassi;Roberto;1994;Reggio Emilia;2009-11-18
+860;Testa;Alberto;2000;Trieste;2000-12-13
+861;Valentini;Gianluca;1982;Parma;2014-04-28
+862;Carbone;Gianluca;1952;Foggia;2006-10-06
+863;Benedetti;Sofia;1978;Sassari;2013-04-26
+864;Silvestri;Francesco;1968;Roma;2016-04-17
+865;Farina;Maria;1980;Trieste;2006-10-17
+866;D'Amico;Francesco;1965;Padova;2013-07-20
+867;Martino;Monica;1982;Livorno;2014-02-14
+868;Bernardi;Claudio;1992;Trento;2011-09-13
+869;Caputo;Nicolò;1997;Napoli;2011-06-03
+870;Mazza;Alessandra;1953;Andria;2015-05-18
+871;Sanna;Lucia;1948;Reggio Calabria;2008-06-08
+872;Fiore;Fabio;1965;Reggio Calabria;2001-06-03
+873;De Rosa;Filippo;1964;Siracusa;2010-03-13
+874;Pellegrino;Claudia;1947;Taranto;2014-10-24
+875;Giuliani;Mirko;1975;Cesena;2013-11-10
+876;Rizzi;Mattia;1953;Salerno;2012-08-02
+877;Di Stefano;Pietro;1998;Andria;1996-06-04
+878;Cattaneo;Silvia;1944;Terni;1999-06-10
+879;Rossetti;Laura;1994;Bologna;2008-12-16
+880;Orlando;Giorgia;1944;Bari;2016-01-26
+881;Basile;Debora;1984;Messina;2001-12-23
+882;Neri;Matteo;1965;Reggio Calabria;2002-08-06
+883;Barone;Jessica;1976;Messina;2004-12-16
+884;Palmieri;Erika;1967;Reggio Calabria;1999-02-15
+885;Riva;Valeria;1952;Bari;2003-10-08
+886;Romeo;Monica;1985;Trento;1997-11-20
+887;Franco;Domenico;1957;Sassari;1999-05-07
+888;Sorrentino;Valeria;1969;Ferrara;1998-12-23
+889;Pagano;Alex;1965;Roma;2009-12-24
+890;D'Agostino;Pietro;1959;Torino;2004-08-26
+891;Piras;Andrea;1960;Taranto;2007-01-31
+892;Ruggiero;Valerio;1966;Livorno;2005-05-03
+893;Montanari;Emanuele;1956;Piacenza;2001-05-16
+894;Battaglia;Elena;1941;Verona;2002-06-28
+895;Bellini;Erika;1968;Trieste;1997-03-25
+896;Castelli;Salvatore;1998;Palermo;2002-10-29
+897;Guerra;Edoardo;1969;Trento;2008-10-07
+898;Poli;Sofia;1971;Arezzo;2015-05-23
+899;Valente;Claudio;1949;Terni;2012-07-09
+900;Ferretti;Valeria;1951;Brescia;2008-08-27
+901;Rossi;Edoardo;1990;Palermo;2009-09-03
+902;Russo;Riccardo;1982;Arezzo;2017-06-02
+903;Ferrari;Martina;1968;Torino;2012-09-04
+904;Esposito;Elena;1941;Novara;1999-04-15
+905;Bianchi;Claudia;1999;Monza;2006-12-21
+906;Romano;Giovanni;1996;Genova;2003-11-10
+907;Colombo;Cristina;1951;Ferrara;1997-07-12
+908;Bruno;Claudio;1973;Reggio Calabria;2014-02-22
+909;Ricci;Daniele;1975;Napoli;1998-11-02
+910;Greco;Luca;1949;Salerno;2002-10-19
+911;Marino;Vanessa;1989;Siracusa;2012-07-23
+912;Gallo;Noemi;1980;Firenze;2000-10-01
+913;De Luca;Salvatore;1987;Foggia;2016-07-03
+914;Conti;Fabio;1966;Prato;2014-01-30
+915;Costa;Stefano;1990;Cesena;2007-02-02
+916;Mancini;Enrico;1955;Cesena;2012-05-20
+917;Giordano;Giulia;1947;Padova;1997-10-28
+918;Rizzo;Nicole;1985;Perugia;2016-04-07
+919;Lombardi;Silvia;1988;Foggia;2010-02-24
+920;Barbieri;Filippo;1954;Cagliari;2004-08-05
+921;Moretti;Laura;1977;Sassari;2016-10-07
+922;Fontana;Alex;1956;Bologna;2004-10-05
+923;Caruso;Emanuele;1942;Terni;2000-05-05
+924;Mariani;Paolo;1985;Bari;1997-06-20
+925;Ferrara;Irene;1960;Terni;2016-05-21
+926;Santoro;Giulia;1972;Salerno;2004-03-02
+927;Rinaldi;Giorgio;1952;Brescia;2012-02-14
+928;Leone;Elisa;1982;Arezzo;2009-05-14
+929;D'Angelo;Leonardo;1964;Giugliano in Campania;2016-02-17
+930;Longo;Alessandro;1968;Taranto;2013-02-25
+931;Galli;Matteo;1981;Napoli;2013-01-12
+932;Martini;Giada;1949;Giugliano in Campania;2008-06-24
+933;Martinelli;Marta;1991;Padova;2015-03-15
+934;Serra;Gaia;1988;Giugliano in Campania;2009-01-21
+935;Conte;Noemi;1976;Giugliano in Campania;2014-09-18
+936;Vitale;Nicolò;1970;Salerno;1995-12-19
+937;De Santis;Stefania;1977;Cagliari;2007-05-10
+938;Marchetti;Lorenzo;1954;Siracusa;2004-09-06
+939;Messina;Simone;1950;Cagliari;2002-12-17
+940;Gentile;Filippo;1948;Udine;1997-07-08
+941;Villa;Greta;1984;Bolzano;2005-04-14
+942;Marini;Claudia;1996;Piacenza;1997-05-25
+943;Lombardo;Fabio;1974;Venezia;1996-03-15
+944;Coppola;Lucia;1985;Palermo;2012-08-20
+945;Ferri;Giada;1994;Napoli;2012-11-01
+946;Parisi;Federico;1941;Lecce;2002-09-19
+947;De Angelis;Noemi;1970;Giugliano in Campania;2003-12-06
+948;Bianco;Paola;1967;Vicenza;2005-07-05
+949;Amato;Marta;1950;Latina;2008-09-14
+950;Fabbri;Michele;1944;Taranto;2003-05-01
+951;Gatti;Antonio;1994;Giugliano in Campania;2013-03-03
+952;Sala;Leonardo;1960;Roma;2011-03-31
+953;Morelli;Silvia;1980;Firenze;2006-09-22
+954;Grasso;Giulia;1947;Milano;2011-07-29
+955;Pellegrini;Angelo;1985;Sassari;2014-06-15
+956;Ferraro;Alberto;1990;Napoli;1998-09-27
+957;Monti;Beatrice;1961;Rimini;2008-04-18
+958;Palumbo;Giorgia;1979;Messina;2006-10-17
+959;Grassi;Stefania;1944;Rimini;2003-10-19
+960;Testa;Stefano;2000;Taranto;1999-09-25
+961;Valentini;Silvia;1986;Bologna;2006-03-18
+962;Carbone;Marco;1970;Catania;1998-01-05
+963;Benedetti;Gianluca;1959;Siracusa;2011-05-09
+964;Silvestri;Veronica;2000;Taranto;1999-09-05
+965;Farina;Emanuele;1963;Genova;2001-11-18
+966;D'Amico;Federica;1989;Bari;2009-12-13
+967;Martino;Filippo;1998;Parma;1999-02-06
+968;Bernardi;Christian;1982;Trieste;2007-12-27
+969;Caputo;Valerio;1981;Reggio Calabria;2005-10-12
+970;Mazza;Caterina;1974;Pescara;2006-08-13
+971;Sanna;Sara;1997;Siracusa;1998-12-19
+972;Fiore;Giacomo;1983;Padova;2001-11-07
+973;De Rosa;Greta;1999;Cesena;1998-04-27
+974;Pellegrino;Davide;1956;Giugliano in Campania;1997-07-16
+975;Giuliani;Roberto;1947;Arezzo;2000-04-09
+976;Rizzi;Michela;1993;Udine;1996-12-22
+977;Di Stefano;Luigi;1998;Udine;2004-05-26
+978;Cattaneo;Nicolò;1977;Giugliano in Campania;2010-06-17
+979;Rossetti;Manuel;1957;Forlì;2014-06-13
+980;Orlando;Giuseppe;1991;Firenze;2011-06-27
+981;Basile;Giulio;1968;Siracusa;2010-03-08
+982;Neri;Vincenzo;1989;Pescara;2005-05-30
+983;Barone;Giacomo;1941;Messina;2009-05-24
+984;Palmieri;Cristina;1959;Ancona;2007-02-01
+985;Riva;Luca;1963;Cesena;2006-02-07
+986;Romeo;Salvatore;1960;Palermo;2012-05-13
+987;Franco;Valeria;1977;Giugliano in Campania;2001-01-02
+988;Sorrentino;Daniele;1944;Terni;2003-12-25
+989;Pagano;Antonio;2000;Livorno;2002-09-07
+990;D'Agostino;Elisa;1960;Latina;1998-04-06
+991;Piras;Filippo;1943;Reggio Emilia;2005-11-12
+992;Ruggiero;Claudio;1991;Bari;2012-12-28
+993;Montanari;Enrico;1963;Bergamo;1997-05-04
+994;Battaglia;Alessandra;1979;Latina;2017-06-04
+995;Bellini;Salvatore;1987;Foggia;2011-01-04
+996;Castelli;Mirko;1966;Cagliari;2008-10-20
+997;Guerra;Giorgio;2000;Ferrara;2002-01-15
+998;Poli;Claudia;2000;Latina;2005-07-24
+999;Valente;Gabriele;1980;Taranto;2002-10-26
+1000;Ferretti;Chiara;1943;Pescara;2005-12-28
+1001;Rossi;Francesco;1984;Andria;2013-07-28
+1002;Russo;Manuel;1957;Messina;2011-02-14
+1003;Ferrari;Giorgia;1953;Brescia;2009-04-12
+1004;Esposito;Vincenzo;1994;Terni;2004-10-01
+1005;Bianchi;Gabriele;1988;Ancona;2008-09-21
+1006;Romano;Simone;1952;Monza;1998-12-20
+1007;Colombo;Vanessa;1995;Trieste;2005-12-11
+1008;Bruno;Lucia;1997;Perugia;1996-01-20
+1009;Ricci;Nicole;1988;Bergamo;2005-03-14
+1010;Greco;Debora;1950;Milano;2010-11-09
+1011;Marino;Lorenzo;1982;Rimini;2017-02-07
+1012;Gallo;Elena;1964;Brescia;1996-08-02
+1013;De Luca;Luca;1989;Ferrara;1998-02-24
+1014;Conti;Greta;1992;Pescara;2002-02-11
+1015;Costa;Claudia;1998;Bari;2004-08-20
+1016;Mancini;Greta;1970;Napoli;2008-06-18
+1017;Giordano;Camilla;1981;Latina;2007-01-27
+1018;Rizzo;Luigi;1941;Firenze;2012-10-24
+1019;Lombardi;Arianna;1993;Messina;2005-07-12
+1020;Barbieri;Simona;1987;Prato;2013-02-20
+1021;Moretti;Elena;1994;Andria;1999-08-17
+1022;Fontana;Eleonora;1957;Torino;2003-09-06
+1023;Caruso;Federico;1951;Napoli;2002-01-20
+1024;Mariani;Riccardo;1965;Brescia;2003-02-02
+1025;Ferrara;Daniele;1971;Novara;1997-02-12
+1026;Santoro;Giorgio;1990;Piacenza;2013-06-04
+1027;Rinaldi;Enrico;1950;Bergamo;1997-02-28
+1028;Leone;Stefania;1996;Cesena;2015-11-12
+1029;D'Angelo;Valeria;1965;Reggio Calabria;2009-08-30
+1030;Longo;Silvia;1986;Palermo;2002-04-20
+1031;Galli;Leonardo;1952;Monza;2005-10-18
+1032;Martini;Caterina;1996;Cesena;2005-12-20
+1033;Martinelli;Pietro;1998;Roma;2001-11-05
+1034;Serra;Elena;1963;Reggio Emilia;2017-06-10
+1035;Conte;Nicolò;1956;Foggia;2000-10-08
+1036;Vitale;Davide;1941;Reggio Calabria;2003-11-03
+1037;De Santis;Emanuele;1952;Rimini;2001-09-28
+1038;Marchetti;Camilla;1999;Terni;2011-01-08
+1039;Messina;Serena;1993;Bolzano;2013-03-04
+1040;Gentile;Claudia;1948;Lecce;1996-03-24
+1041;Villa;Nicola;1976;Trieste;2006-04-05
+1042;Marini;Francesco;1940;Livorno;2015-10-28
+1043;Lombardo;Veronica;1965;Brescia;2000-11-27
+1044;Coppola;Michela;1980;Forlì;2008-09-07
+1045;Ferri;Lucia;1941;Trieste;2002-09-23
+1046;Parisi;Elisa;1994;Rimini;2012-06-23
+1047;De Angelis;Giada;1957;Napoli;2008-01-10
+1048;Bianco;Noemi;1977;Venezia;1999-02-04
+1049;Amato;Davide;1963;Reggio Emilia;2010-10-01
+1050;Fabbri;Alice;1980;Genova;2012-12-03
+1051;Gatti;Jessica;1993;Ravenna;2002-03-01
+1052;Sala;Jessica;1942;Roma;2002-03-04
+1053;Morelli;Giorgio;1978;Genova;1997-03-22
+1054;Grasso;Edoardo;1973;Giugliano in Campania;2013-05-09
+1055;Pellegrini;Veronica;1947;Siracusa;2003-04-15
+1056;Ferraro;Vanessa;1971;Milano;1998-12-09
+1057;Monti;Erika;1979;Firenze;2003-05-19
+1058;Palumbo;Giulio;1945;Lecce;2013-08-04
+1059;Grassi;Alberto;1962;Trieste;2012-04-28
+1060;Testa;Andrea;1992;Arezzo;2005-03-22
+1061;Valentini;Marco;1962;Livorno;2016-08-18
+1062;Carbone;Debora;1964;Bolzano;2006-05-17
+1063;Benedetti;Tommaso;1986;Pescara;1998-04-25
+1064;Silvestri;Alessio;1972;Palermo;2003-06-08
+1065;Farina;Laura;1945;Andria;2004-06-25
+1066;D'Amico;Silvia;1950;Novara;2009-03-26
+1067;Martino;Laura;1985;Palermo;2011-09-06
+1068;Bernardi;Paolo;1990;Bergamo;2008-12-13
+1069;Caputo;Lorenzo;1996;Prato;2005-12-17
+1070;Mazza;Angelo;1942;Sassari;2014-09-09
+1071;Sanna;Angela;1949;Terni;2003-03-08
+1072;Fiore;Andrea;1944;Ferrara;2009-10-09
+1073;De Rosa;Domenico;1992;Ferrara;2011-03-02
+1074;Pellegrino;Vanessa;1971;Bologna;2014-01-14
+1075;Giuliani;Irene;1973;Reggio Emilia;1999-09-02
+1076;Rizzi;Tommaso;1956;Livorno;2011-11-01
+1077;Di Stefano;Giacomo;1940;Torino;2010-05-18
+1078;Cattaneo;Alessandro;1980;Roma;2006-05-04
+1079;Rossetti;Marta;1946;Vicenza;1995-12-10
+1080;Orlando;Federico;1973;Messina;2011-01-16
+1081;Basile;Marco;1991;Ancona;2015-07-08
+1082;Neri;Simona;1985;Catania;2005-08-04
+1083;Barone;Giulio;1996;Parma;2009-09-21
+1084;Palmieri;Michele;1942;Foggia;2011-03-28
+1085;Riva;Lisa;1982;Bari;2012-10-06
+1086;Romeo;Caterina;1979;Foggia;2004-09-04
+1087;Franco;Sara;1951;Vicenza;2010-12-16
+1088;Sorrentino;Paolo;1945;Salerno;2002-02-18
+1089;Pagano;Paola;1971;Giugliano in Campania;2017-06-21
+1090;D'Agostino;Ilaria;1969;Trieste;2007-06-13
+1091;Piras;Giorgio;1978;Venezia;2015-11-01
+1092;Ruggiero;Cristina;1965;Roma;1997-09-11
+1093;Montanari;Erica;1998;Napoli;2016-05-28
+1094;Battaglia;Alessandra;1978;Padova;2016-02-12
+1095;Bellini;Pietro;1948;Rimini;1997-07-19
+1096;Castelli;Claudio;1998;Forlì;2001-05-26
+1097;Guerra;Alice;1963;Bergamo;2003-01-15
+1098;Poli;Stefano;1963;Taranto;2010-12-20
+1099;Valente;Beatrice;1952;Monza;2016-09-28
+1100;Ferretti;Valeria;1973;Bari;2003-02-28
+1101;Rossi;Anna;1984;Terni;2016-08-02
+1102;Russo;Giulia;1953;Ancona;2011-10-15
+1103;Ferrari;Mattia;1985;Piacenza;2009-05-08
+1104;Esposito;Luigi;1993;Firenze;2009-01-26
+1105;Bianchi;Monica;1973;Firenze;2012-03-25
+1106;Romano;Martina;1951;Palermo;2009-09-22
+1107;Colombo;Claudia;1982;Forlì;2011-08-05
+1108;Bruno;Giada;1973;Arezzo;2013-05-31
+1109;Ricci;Alberto;1971;Reggio Calabria;2017-05-14
+1110;Greco;Laura;1951;Monza;2009-01-28
+1111;Marino;Lorenzo;1972;Roma;2000-09-09
+1112;Gallo;Roberta;1992;Taranto;2015-12-28
+1113;De Luca;Giulio;1973;Ancona;1999-04-29
+1114;Conti;Serena;1944;Venezia;2004-08-15
+1115;Costa;Filippo;1977;Ravenna;1997-08-03
+1116;Mancini;Vanessa;1983;Vicenza;2011-07-01
+1117;Giordano;Giovanni;1948;Bergamo;2011-03-20
+1118;Rizzo;Roberta;1986;Napoli;2008-05-21
+1119;Lombardi;Alice;1988;Ferrara;2005-07-12
+1120;Barbieri;Chiara;1959;Parma;1998-12-30
+1121;Moretti;Monica;1978;Ferrara;2011-05-19
+1122;Fontana;Edoardo;1941;Firenze;2005-12-22
+1123;Caruso;Noemi;1967;Pescara;2011-10-27
+1124;Mariani;Daniele;1950;Padova;2000-01-19
+1125;Ferrara;Francesca;1945;Siracusa;2015-05-28
+1126;Santoro;Alessia;1955;Reggio Calabria;2002-11-23
+1127;Rinaldi;Christian;1999;Bergamo;2009-01-16
+1128;Leone;Giulio;1995;Foggia;2006-05-24
+1129;D'Angelo;Domenico;1951;Trento;2004-02-14
+1130;Longo;Giacomo;1974;Roma;2006-07-21
+1131;Galli;Tommaso;1941;Rimini;2010-07-01
+1132;Martini;Roberta;1981;Torino;1997-01-07
+1133;Martinelli;Beatrice;1955;Bari;2007-02-07
+1134;Serra;Ilaria;1964;Trento;1997-05-16
+1135;Conte;Maria;1997;Sassari;2002-08-10
+1136;Vitale;Federica;1981;Ferrara;2000-12-13
+1137;De Santis;Alberto;1971;Terni;2002-12-26
+1138;Marchetti;Jacopo;1959;Perugia;2002-04-04
+1139;Messina;Valeria;1954;Rimini;1997-05-05
+1140;Gentile;Federico;1953;Bari;2012-03-22
+1141;Villa;Giuseppe;1966;Trento;2006-04-28
+1142;Marini;Eleonora;1965;Roma;1997-10-22
+1143;Lombardo;Gabriele;1995;Reggio Calabria;2011-09-17
+1144;Coppola;Giulio;1976;Bolzano;2013-12-29
+1145;Ferri;Noemi;1942;Genova;2009-05-29
+1146;Parisi;Arianna;1992;Forlì;2017-02-12
+1147;De Angelis;Marco;1979;Messina;2001-12-29
+1148;Bianco;Valerio;1968;Catania;1998-12-05
+1149;Amato;Andrea;1957;Padova;2015-06-14
+1150;Fabbri;Federica;1965;Livorno;2007-07-07
+1151;Gatti;Lorenzo;1960;Padova;2009-08-22
+1152;Sala;Enrico;1959;Pescara;1995-12-07
+1153;Morelli;Arianna;1961;Catania;2001-07-26
+1154;Grasso;Maria;1960;Napoli;1998-03-05
+1155;Pellegrini;Alberto;1998;Parma;2006-06-04
+1156;Ferraro;Alex;1965;Foggia;1998-09-12
+1157;Monti;Vincenzo;1977;Rimini;2002-03-12
+1158;Palumbo;Roberta;1956;Brescia;2009-03-22
+1159;Grassi;Simona;1970;Milano;2017-04-01
+1160;Testa;Pietro;1985;Messina;2000-09-10
+1161;Valentini;Nicola;1954;Bolzano;2003-02-21
+1162;Carbone;Elisa;1941;Ancona;2013-01-15
+1163;Benedetti;Daniele;1957;Parma;2016-05-10
+1164;Silvestri;Lorenzo;1982;Piacenza;2000-08-11
+1165;Farina;Giulio;1993;Lecce;2016-09-13
+1166;D'Amico;Giorgio;1977;Cesena;2003-01-23
+1167;Martino;Marco;1984;Roma;2012-01-13
+1168;Bernardi;Camilla;1974;Sassari;2003-12-15
+1169;Caputo;Alessia;1996;Perugia;2016-11-21
+1170;Mazza;Elena;1947;Padova;2015-05-20
+1171;Sanna;Antonio;1977;Brescia;2001-03-08
+1172;Fiore;Nicolò;1961;Reggio Emilia;2004-06-19
+1173;De Rosa;Giuseppe;1946;Cagliari;2011-06-10
+1174;Pellegrino;Claudio;1991;Novara;2000-02-02
+1175;Giuliani;Ilaria;1994;Bergamo;2017-05-16
+1176;Rizzi;Matteo;1959;Siracusa;2013-09-09
+1177;Di Stefano;Edoardo;1982;Cesena;2009-05-04
+1178;Cattaneo;Pietro;2000;Ancona;2013-09-25
+1179;Rossetti;Laura;1968;Terni;2009-09-05
+1180;Orlando;Fabio;1994;Reggio Calabria;2000-05-11
+1181;Basile;Fabio;1996;Messina;1998-08-20
+1182;Neri;Emanuele;1979;Genova;2004-09-09
+1183;Barone;Camilla;1952;Andria;2011-03-06
+1184;Palmieri;Vincenzo;1949;Giugliano in Campania;2007-05-29
+1185;Riva;Gianluca;1996;Lecce;2011-11-21
+1186;Romeo;Giovanni;1970;Giugliano in Campania;1997-08-27
+1187;Franco;Simone;1946;Reggio Calabria;2013-12-01
+1188;Sorrentino;Beatrice;1940;Siracusa;1997-05-18
+1189;Pagano;Riccardo;1992;Trento;2007-06-09
+1190;D'Agostino;Valentina;1991;Perugia;2008-11-26
+1191;Piras;Sara;1971;Giugliano in Campania;2014-09-02
+1192;Ruggiero;Greta;1941;Perugia;2013-05-15
+1193;Montanari;Manuel;1964;Terni;2015-12-14
+1194;Battaglia;Davide;1942;Bari;2004-03-29
+1195;Bellini;Angelo;1963;Lecce;1997-12-17
+1196;Castelli;Giovanni;1973;Lecce;2009-01-16
+1197;Guerra;Luigi;1994;Giugliano in Campania;2010-08-16
+1198;Poli;Stefano;1943;Perugia;2004-06-06
+1199;Valente;Giuseppe;1950;Genova;2005-12-09
+1200;Ferretti;Paolo;1943;Catania;2016-02-17
+1201;Rossi;Maria;1966;Torino;2009-03-06
+1202;Russo;Eleonora;1973;Livorno;2017-09-22
+1203;Ferrari;Giorgio;1972;Palermo;2016-07-03
+1204;Esposito;Alessandra;1969;Monza;1999-07-08
+1205;Bianchi;Paolo;1981;Roma;2011-10-31
+1206;Romano;Maria;1975;Messina;2010-02-05
+1207;Colombo;Caterina;1992;Arezzo;2000-06-06
+1208;Bruno;Davide;1950;Prato;2002-04-19
+1209;Ricci;Beatrice;1966;Cesena;2009-04-06
+1210;Greco;Anna;1942;Sassari;2000-02-17
+1211;Marino;Mirko;1943;Bologna;2008-09-03
+1212;Gallo;Lisa;1968;Reggio Calabria;2011-08-20
+1213;De Luca;Angela;1998;Venezia;2017-05-12
+1214;Conti;Beatrice;1959;Ravenna;1999-05-05
+1215;Costa;Nicole;1986;Prato;2014-07-09
+1216;Mancini;Simona;1955;Forlì;1996-11-24
+1217;Giordano;Francesco;1985;Bari;2010-02-25
+1218;Rizzo;Giulio;1964;Reggio Emilia;1998-04-08
+1219;Lombardi;Camilla;1965;Brescia;2003-02-05
+1220;Barbieri;Giovanni;1943;Salerno;2009-11-01
+1221;Moretti;Giovanni;1993;Terni;2011-06-04
+1222;Fontana;Alessandro;1988;Trento;2017-09-02
+1223;Caruso;Mattia;1953;Pescara;2009-08-28
+1224;Mariani;Nicole;1993;Forlì;1997-11-15
+1225;Ferrara;Tommaso;1975;Venezia;2006-01-27
+1226;Santoro;Lorenzo;1989;Milano;2017-08-25
+1227;Rinaldi;Paolo;1961;Modena;2010-10-22
+1228;Leone;Paola;1990;Napoli;1996-06-10
+1229;D'Angelo;Giorgia;1942;Bologna;2016-07-14
+1230;Longo;Francesca;1997;Genova;2003-09-22
+1231;Galli;Valentina;1951;Bergamo;2015-07-22
+1232;Martini;Caterina;1951;Parma;1997-12-02
+1233;Martinelli;Daniele;1950;Vicenza;2000-05-13
+1234;Serra;Chiara;1995;Firenze;1997-04-03
+1235;Conte;Nicola;1950;Perugia;1997-02-21
+1236;Vitale;Giorgia;1968;Cesena;2006-11-18
+1237;De Santis;Alessandro;1948;Perugia;2006-03-29
+1238;Marchetti;Vincenzo;1943;Trento;1999-04-04
+1239;Messina;Tommaso;1971;Prato;2008-07-24
+1240;Gentile;Jacopo;1941;Catania;1999-05-23
+1241;Villa;Chiara;1995;Perugia;1997-06-05
+1242;Marini;Simone;1995;Messina;1998-11-16
+1243;Lombardo;Edoardo;1957;Livorno;1995-11-14
+1244;Coppola;Emanuele;1941;Napoli;2004-06-12
+1245;Ferri;Giulio;1995;Piacenza;2003-09-04
+1246;Parisi;Federico;1969;Latina;2000-07-05
+1247;De Angelis;Nicolò;1983;Bologna;2007-11-21
+1248;Bianco;Cristina;1952;Ferrara;2017-03-07
+1249;Amato;Giulia;1994;Giugliano in Campania;2012-04-05
+1250;Fabbri;Giorgia;1940;Venezia;2003-01-06
+1251;Gatti;Dario;1946;Bergamo;2008-07-24
+1252;Sala;Erika;1967;Forlì;2004-09-12
+1253;Morelli;Angela;1963;Perugia;1999-06-13
+1254;Grasso;Vincenzo;1996;Giugliano in Campania;2003-05-03
+1255;Pellegrini;Claudia;1968;Rimini;1997-08-03
+1256;Ferraro;Federica;1984;Firenze;2017-05-02
+1257;Monti;Alberto;1971;Giugliano in Campania;2016-07-12
+1258;Palumbo;Noemi;1992;Bologna;2001-11-06
+1259;Grassi;Vanessa;1981;Bergamo;1999-10-31
+1260;Testa;Federica;1977;Padova;2007-08-02
+1261;Valentini;Paolo;1979;Palermo;1999-01-18
+1262;Carbone;Stefano;1946;Bologna;2000-07-24
+1263;Benedetti;Michele;1952;Genova;1999-08-23
+1264;Silvestri;Laura;1955;Firenze;2004-11-18
+1265;Farina;Luigi;1978;Rimini;2000-06-13
+1266;D'Amico;Vincenzo;1952;Piacenza;2006-12-19
+1267;Martino;Camilla;1973;Padova;2006-03-01
+1268;Bernardi;Veronica;1970;Rimini;2015-10-28
+1269;Caputo;Chiara;1966;Ferrara;2017-08-20
+1270;Mazza;Manuel;1985;Perugia;1998-03-21
+1271;Sanna;Debora;1963;Sassari;2004-04-06
+1272;Fiore;Francesca;1943;Trento;1996-11-19
+1273;De Rosa;Emanuele;1978;Trento;2002-10-15
+1274;Pellegrino;Andrea;1967;Piacenza;1999-06-15
+1275;Giuliani;Lucia;1996;Siracusa;2004-05-17
+1276;Rizzi;Roberto;1945;Arezzo;2014-01-15
+1277;Di Stefano;Dario;1967;Modena;2017-07-03
+1278;Cattaneo;Giuseppe;1992;Venezia;1997-03-21
+1279;Rossetti;Davide;1963;Milano;2014-04-29
+1280;Orlando;Lucia;1992;Ancona;1998-06-19
+1281;Basile;Camilla;1981;Piacenza;2015-04-26
+1282;Neri;Christian;1990;Foggia;2006-05-23
+1283;Barone;Gaia;1994;Sassari;2001-04-25
+1284;Palmieri;Antonio;1999;Trieste;2012-10-19
+1285;Riva;Paola;1997;Terni;2007-12-28
+1286;Romeo;Dario;1947;Trento;2006-05-31
+1287;Franco;Gabriele;1967;Firenze;2012-09-24
+1288;Sorrentino;Gianluca;1976;Lecce;2001-06-08
+1289;Pagano;Riccardo;1969;Reggio Calabria;2017-03-29
+1290;D'Agostino;Gianluca;1975;Trieste;2000-07-22
+1291;Piras;Ilaria;1965;Reggio Emilia;2016-12-26
+1292;Ruggiero;Antonio;1962;Reggio Emilia;2000-03-28
+1293;Montanari;Cristina;1982;Brescia;2011-02-11
+1294;Battaglia;Giada;1967;Parma;2000-08-21
+1295;Bellini;Lisa;1995;Udine;2017-01-06
+1296;Castelli;Roberta;1980;Arezzo;2009-11-29
+1297;Guerra;Alice;1977;Bolzano;2003-01-09
+1298;Poli;Elisa;2000;Terni;2012-09-26
+1299;Valente;Caterina;1966;Catania;2012-09-19
+1300;Ferretti;Cristina;1959;Napoli;1998-09-24
+1301;Rossi;Alex;1999;Torino;2012-06-15
+1302;Russo;Davide;1953;Latina;2004-03-31
+1303;Ferrari;Laura;1953;Verona;2005-09-10
+1304;Esposito;Arianna;1974;Catania;2003-03-10
+1305;Bianchi;Manuel;1965;Vicenza;2009-08-10
+1306;Romano;Giada;1991;Sassari;2000-02-22
+1307;Colombo;Lorenzo;1977;Firenze;2001-12-30
+1308;Bruno;Vincenzo;1960;Taranto;2013-08-19
+1309;Ricci;Valentina;1963;Sassari;2017-03-05
+1310;Greco;Sofia;1970;Venezia;2001-06-11
+1311;Marino;Ilaria;1986;Foggia;2009-09-30
+1312;Gallo;Stefano;1974;Genova;1998-10-25
+1313;De Luca;Erica;1977;Milano;2006-03-27
+1314;Conti;Roberta;1995;Roma;2001-01-09
+1315;Costa;Luca;1942;Taranto;2017-03-18
+1316;Mancini;Caterina;1991;Parma;2006-07-01
+1317;Giordano;Angela;1993;Giugliano in Campania;2004-01-08
+1318;Rizzo;Ilaria;1950;Forlì;2002-07-29
+1319;Lombardi;Alessia;1981;Ancona;2009-09-03
+1320;Barbieri;Sofia;1966;Bolzano;2002-09-23
+1321;Moretti;Alessandro;1960;Forlì;2004-09-02
+1322;Fontana;Valeria;1980;Bari;2015-10-13
+1323;Caruso;Jacopo;1952;Cesena;2003-04-10
+1324;Mariani;Arianna;2000;Cesena;2014-09-10
+1325;Ferrara;Roberto;1993;Lecce;2005-03-18
+1326;Santoro;Francesca;1986;Reggio Emilia;1999-03-20
+1327;Rinaldi;Luigi;1964;Pescara;2010-11-12
+1328;Leone;Fabio;1940;Catania;2000-11-23
+1329;D'Angelo;Federica;1965;Bergamo;2006-04-13
+1330;Longo;Chiara;1971;Cesena;2007-08-17
+1331;Galli;Nicolò;1997;Monza;2000-08-06
+1332;Martini;Francesco;1990;Latina;1996-01-01
+1333;Martinelli;Dario;1951;Venezia;2010-03-30
+1334;Serra;Camilla;1968;Bergamo;2000-07-15
+1335;Conte;Marco;1955;Bari;2016-08-24
+1336;Vitale;Gaia;1997;Messina;2008-08-06
+1337;De Santis;Luca;1982;Siracusa;2015-12-07
+1338;Marchetti;Alberto;1985;Foggia;1997-12-23
+1339;Messina;Sara;1943;Arezzo;2009-04-10
+1340;Gentile;Chiara;1977;Prato;2000-03-27
+1341;Villa;Elisa;1974;Siracusa;2013-02-03
+1342;Marini;Mattia;1992;Siracusa;2005-04-29
+1343;Lombardo;Christian;1982;Catania;2009-04-09
+1344;Coppola;Daniele;1960;Ancona;2006-10-24
+1345;Ferri;Manuel;1950;Firenze;1998-11-14
+1346;Parisi;Angela;1972;Taranto;2015-02-19
+1347;De Angelis;Anna;1956;Bergamo;2015-12-23
+1348;Bianco;Tommaso;1999;Foggia;1997-05-31
+1349;Amato;Michela;1980;Latina;1998-12-17
+1350;Fabbri;Dario;1972;Taranto;2016-02-22
+1351;Gatti;Mirko;1972;Vicenza;2004-10-10
+1352;Sala;Nicole;1960;Livorno;1995-10-31
+1353;Morelli;Antonio;1943;Salerno;1998-11-08
+1354;Grasso;Gabriele;1974;Sassari;2011-07-12
+1355;Pellegrini;Lucia;1959;Parma;2006-08-27
+1356;Ferraro;Mirko;1975;Roma;2004-04-08
+1357;Monti;Nicole;1994;Pescara;2005-11-15
+1358;Palumbo;Pietro;1979;Latina;2016-04-25
+1359;Grassi;Paolo;1960;Novara;1996-07-12
+1360;Testa;Beatrice;1958;Verona;2006-07-17
+1361;Valentini;Jacopo;1940;Terni;2000-09-14
+1362;Carbone;Noemi;1978;Andria;2015-03-15
+1363;Benedetti;Alessio;1955;Bergamo;2002-09-03
+1364;Silvestri;Francesca;1999;Sassari;1998-03-28
+1365;Farina;Simone;1995;Ravenna;2005-12-17
+1366;D'Amico;Arianna;1982;Bari;2006-06-01
+1367;Martino;Filippo;1978;Napoli;2013-10-18
+1368;Bernardi;Giovanni;1950;Padova;1997-03-24
+1369;Caputo;Irene;1952;Livorno;2007-02-24
+1370;Mazza;Simone;1945;Terni;2011-07-02
+1371;Sanna;Vanessa;1984;Palermo;2000-05-07
+1372;Fiore;Antonio;1940;Verona;2001-03-20
+1373;De Rosa;Maria;1971;Pescara;2000-06-22
+1374;Pellegrino;Stefania;1971;Venezia;2001-12-08
+1375;Giuliani;Daniele;1995;Milano;1998-04-01
+1376;Rizzi;Mirko;1952;Modena;2001-01-08
+1377;Di Stefano;Enrico;1996;Parma;2017-07-20
+1378;Cattaneo;Roberta;1958;Taranto;2011-04-19
+1379;Rossetti;Luca;1950;Andria;2014-09-09
+1380;Orlando;Leonardo;1973;Reggio Calabria;2001-08-07
+1381;Basile;Angela;1942;Trento;2003-12-28
+1382;Neri;Filippo;1994;Salerno;2002-03-19
+1383;Barone;Alessio;1985;Verona;2011-07-18
+1384;Palmieri;Giorgio;1953;Bergamo;2005-08-25
+1385;Riva;Luca;1997;Rimini;2008-04-26
+1386;Romeo;Mattia;1992;Messina;2013-01-02
+1387;Franco;Jessica;1966;Milano;2005-06-13
+1388;Sorrentino;Serena;1979;Latina;2003-04-21
+1389;Pagano;Edoardo;1994;Verona;2017-06-08
+1390;D'Agostino;Lisa;1984;Lecce;2003-05-10
+1391;Piras;Nicole;1975;Prato;2005-02-23
+1392;Ruggiero;Alessandra;1971;Cagliari;2006-11-25
+1393;Montanari;Giorgia;1967;Bari;1998-07-10
+1394;Battaglia;Alessio;1991;Livorno;1999-09-29
+1395;Bellini;Erica;1981;Bologna;2015-02-18
+1396;Castelli;Elena;1951;Cesena;2015-06-17
+1397;Guerra;Andrea;1959;Roma;2014-03-28
+1398;Poli;Manuel;1963;Siracusa;2008-04-26
+1399;Valente;Alex;1985;Cagliari;2013-05-28
+1400;Ferretti;Camilla;1975;Siracusa;2013-12-07
+1401;Rossi;Giulio;1998;Bolzano;2016-06-23
+1402;Russo;Edoardo;1962;Taranto;2016-10-25
+1403;Ferrari;Leonardo;1993;Cesena;2001-01-02
+1404;Esposito;Alessandro;1954;Genova;2012-01-04
+1405;Bianchi;Alessandro;1950;Torino;2016-04-03
+1406;Romano;Giada;1988;Monza;1997-10-30
+1407;Colombo;Irene;1989;Latina;2012-11-01
+1408;Bruno;Mirko;1957;Messina;2013-02-28
+1409;Ricci;Giulio;1988;Prato;2012-03-09
+1410;Greco;Federico;1970;Milano;1999-01-07
+1411;Marino;Marta;1977;Torino;1998-11-02
+1412;Gallo;Lorenzo;1941;Parma;2004-06-13
+1413;De Luca;Michele;1999;Andria;1996-05-26
+1414;Conti;Monica;1954;Pescara;2002-01-23
+1415;Costa;Alessio;1983;Giugliano in Campania;1999-08-10
+1416;Mancini;Lisa;1993;Perugia;2013-11-11
+1417;Giordano;Domenico;1990;Pescara;2015-02-03
+1418;Rizzo;Luigi;1951;Forlì;2000-06-16
+1419;Lombardi;Davide;1948;Forlì;2004-02-16
+1420;Barbieri;Giuseppe;1989;Cesena;2017-08-28
+1421;Moretti;Irene;1958;Firenze;2013-08-25
+1422;Fontana;Nicola;1966;Arezzo;2006-06-29
+1423;Caruso;Gianluca;2000;Forlì;1996-06-04
+1424;Mariani;Roberto;1956;Bergamo;2010-04-09
+1425;Ferrara;Mirko;1980;Siracusa;1998-05-15
+1426;Santoro;Gaia;1977;Padova;1996-02-18
+1427;Rinaldi;Silvia;2000;Rimini;1999-12-06
+1428;Leone;Antonio;1979;Ancona;2005-04-05
+1429;D'Angelo;Roberta;1962;Bari;2002-05-18
+1430;Longo;Michela;1979;Livorno;2003-01-19
+1431;Galli;Federica;1949;Taranto;2007-05-03
+1432;Martini;Giorgio;1974;Genova;2005-12-02
+1433;Martinelli;Claudia;1981;Sassari;2004-07-18
+1434;Serra;Maria;1991;Ancona;1997-03-23
+1435;Conte;Valerio;1964;Bari;2011-01-15
+1436;Vitale;Simona;1967;Modena;2009-03-01
+1437;De Santis;Federica;1968;Genova;1999-12-20
+1438;Marchetti;Angelo;1969;Parma;2006-03-05
+1439;Messina;Dario;1995;Bari;1997-06-28
+1440;Gentile;Matteo;1963;Terni;2008-08-03
+1441;Villa;Antonio;1946;Trento;2012-03-04
+1442;Marini;Federica;1978;Parma;1997-04-23
+1443;Lombardo;Giuseppe;1958;Livorno;2012-11-27
+1444;Coppola;Giulia;1990;Reggio Emilia;2012-11-01
+1445;Ferri;Gabriele;1984;Ferrara;2009-02-09
+1446;Parisi;Vincenzo;1997;Messina;2012-03-19
+1447;De Angelis;Alessio;1940;Verona;1999-02-03
+1448;Bianco;Angela;1970;Milano;2010-03-22
+1449;Amato;Erika;1990;Giugliano in Campania;2010-06-01
+1450;Fabbri;Francesca;1968;Bolzano;2011-09-03
+1451;Gatti;Pietro;1962;Giugliano in Campania;2006-01-10
+1452;Sala;Ilaria;1988;Reggio Calabria;2010-12-05
+1453;Morelli;Manuel;1992;Pescara;2002-04-25
+1454;Grasso;Alberto;1992;Modena;1999-01-03
+1455;Pellegrini;Valentina;1962;Parma;1999-11-02
+1456;Ferraro;Giulio;1985;Terni;1999-01-05
+1457;Monti;Emanuele;1959;Reggio Emilia;1996-06-26
+1458;Palumbo;Debora;1979;Genova;2014-08-29
+1459;Grassi;Alessia;1966;Firenze;1997-03-18
+1460;Testa;Alice;1947;Sassari;2004-03-04
+1461;Valentini;Noemi;1991;Ferrara;2007-05-12
+1462;Carbone;Michela;1963;Brescia;2006-12-11
+1463;Benedetti;Dario;1979;Reggio Emilia;2002-11-18
+1464;Silvestri;Elena;1964;Piacenza;2011-04-09
+1465;Farina;Paola;1956;Piacenza;1997-05-03
+1466;D'Amico;Marco;1963;Trento;2005-11-02
+1467;Martino;Greta;1982;Udine;2014-07-27
+1468;Bernardi;Tommaso;1986;Reggio Emilia;2016-02-12
+1469;Caputo;Eleonora;1941;Bolzano;2016-04-25
+1470;Mazza;Chiara;1991;Bergamo;2002-02-13
+1471;Sanna;Alice;1993;Sassari;2014-08-13
+1472;Fiore;Arianna;1945;Milano;2005-01-13
+1473;De Rosa;Roberto;1968;Milano;2015-04-09
+1474;Pellegrino;Manuel;1975;Trento;2010-09-07
+1475;Giuliani;Lorenzo;1962;Forlì;1998-02-06
+1476;Rizzi;Lisa;1952;Ferrara;2007-10-08
+1477;Di Stefano;Alberto;1952;Vicenza;2007-05-05
+1478;Cattaneo;Caterina;1987;Arezzo;1999-10-23
+1479;Rossetti;Davide;1953;Vicenza;2000-10-27
+1480;Orlando;Giorgio;1977;Bergamo;2013-10-12
+1481;Basile;Leonardo;1994;Cesena;2000-03-20
+1482;Neri;Alice;1997;Napoli;2005-06-02
+1483;Barone;Anna;1964;Brescia;2004-07-27
+1484;Palmieri;Elena;1946;Modena;2003-02-12
+1485;Riva;Simona;1991;Livorno;2002-07-26
+1486;Romeo;Luca;1962;Giugliano in Campania;2015-01-21
+1487;Franco;Martina;1948;Messina;2002-02-25
+1488;Sorrentino;Giacomo;1950;Lecce;2017-08-18
+1489;Pagano;Claudia;1967;Rimini;1999-03-11
+1490;D'Agostino;Domenico;1947;Ferrara;2005-12-02
+1491;Piras;Michela;1964;Venezia;2014-12-01
+1492;Ruggiero;Dario;1980;Palermo;1998-09-23
+1493;Montanari;Ilaria;1960;Siracusa;2002-03-21
+1494;Battaglia;Alessandro;1946;Bolzano;1996-12-23
+1495;Bellini;Giulio;1958;Modena;2003-01-27
+1496;Castelli;Gaia;1956;Andria;2016-11-19
+1497;Guerra;Filippo;1948;Latina;2006-12-12
+1498;Poli;Nicola;1979;Udine;2001-03-11
+1499;Valente;Alessandra;1956;Catania;1997-03-09
+1500;Ferretti;Anna;1996;Taranto;2004-08-03
+1501;Rossi;Sara;1997;Reggio Emilia;2005-02-08
+1502;Russo;Jacopo;1966;Terni;2001-06-08
+1503;Ferrari;Christian;1954;Ancona;1997-07-26
+1504;Esposito;Vincenzo;1958;Pescara;2003-02-02
+1505;Bianchi;Daniele;1994;Padova;2017-03-06
+1506;Romano;Noemi;1970;Arezzo;2009-02-06
+1507;Colombo;Claudio;1993;Bologna;2012-05-11
+1508;Bruno;Riccardo;1974;Trieste;2007-05-10
+1509;Ricci;Fabio;1974;Roma;1997-04-28
+1510;Greco;Giacomo;1970;Bari;2007-01-24
+1511;Marino;Riccardo;1999;Rimini;1997-09-02
+1512;Gallo;Mattia;1978;Udine;2015-10-16
+1513;De Luca;Roberto;1952;Parma;2004-12-05
+1514;Conti;Giada;1966;Ancona;2000-10-03
+1515;Costa;Alex;1940;Ancona;2010-07-11
+1516;Mancini;Matteo;1992;Siracusa;1998-01-31
+1517;Giordano;Greta;1970;Ravenna;2013-07-17
+1518;Rizzo;Angela;1993;Livorno;2011-05-03
+1519;Lombardi;Emanuele;1998;Novara;2004-03-17
+1520;Barbieri;Francesco;1956;Siracusa;2000-08-29
+1521;Moretti;Federico;1979;Livorno;1998-09-30
+1522;Fontana;Erica;1941;Padova;2002-05-08
+1523;Caruso;Michela;1945;Piacenza;2016-11-04
+1524;Mariani;Silvia;1995;Bergamo;2016-10-28
+1525;Ferrara;Michele;1966;Firenze;2006-12-02
+1526;Santoro;Edoardo;1995;Reggio Calabria;2008-02-05
+1527;Rinaldi;Maria;1999;Venezia;2004-04-09
+1528;Leone;Sara;1994;Latina;1999-07-27
+1529;D'Angelo;Alessia;1968;Lecce;2006-09-04
+1530;Longo;Serena;1953;Venezia;1996-06-07
+1531;Galli;Sofia;1989;Forlì;2011-09-08
+1532;Martini;Michela;1940;Foggia;2015-01-25
+1533;Martinelli;Stefano;1998;Livorno;1998-03-05
+1534;Serra;Alberto;1940;Andria;2004-07-19
+1535;Conte;Tommaso;1992;Palermo;2008-06-17
+1536;Vitale;Serena;1990;Parma;2007-01-13
+1537;De Santis;Davide;1953;Arezzo;2013-01-25
+1538;Marchetti;Eleonora;1983;Ravenna;2015-04-17
+1539;Messina;Manuel;1977;Trieste;2001-09-12
+1540;Gentile;Caterina;1963;Bolzano;1997-03-31
+1541;Villa;Francesco;1988;Reggio Calabria;2013-01-23
+1542;Marini;Riccardo;1968;Ravenna;2000-10-04
+1543;Lombardo;Giovanni;1999;Forlì;2015-09-07
+1544;Coppola;Giacomo;1993;Bergamo;2006-04-29
+1545;Ferri;Serena;1989;Reggio Calabria;2006-07-12
+1546;Parisi;Debora;2000;Terni;1997-01-25
+1547;De Angelis;Gaia;1990;Firenze;2012-12-19
+1548;Bianco;Matteo;1978;Firenze;2015-11-15
+1549;Amato;Valerio;1951;Napoli;2015-03-12
+1550;Fabbri;Michela;1942;Venezia;2012-02-05
+1551;Gatti;Maria;1943;Genova;2004-03-03
+1552;Sala;Anna;1965;Trento;2012-09-22
+1553;Morelli;Beatrice;1994;Bergamo;2001-03-16
+1554;Grasso;Noemi;1964;Bolzano;2011-06-21
+1555;Pellegrini;Claudio;1974;Novara;2008-01-14
+1556;Ferraro;Lisa;1973;Udine;2015-07-14
+1557;Monti;Greta;1965;Napoli;1999-03-08
+1558;Palumbo;Federico;1995;Torino;2011-09-19
+1559;Grassi;Giuseppe;1994;Brescia;2009-12-23
+1560;Testa;Veronica;1995;Forlì;2003-06-03
+1561;Valentini;Erika;1974;Palermo;1998-09-07
+1562;Carbone;Federico;1947;Milano;2014-05-15
+1563;Benedetti;Claudio;1958;Padova;2007-10-09
+1564;Silvestri;Enrico;1983;Rimini;2006-01-19
+1565;Farina;Tommaso;1962;Monza;2012-04-09
+1566;D'Amico;Valerio;1987;Siracusa;2007-01-14
+1567;Martino;Silvia;1978;Verona;2004-09-14
+1568;Bernardi;Alice;1996;Monza;2007-05-02
+1569;Caputo;Giorgia;1951;Modena;1999-08-03
+1570;Mazza;Caterina;1981;Foggia;1997-05-05
+1571;Sanna;Michele;1963;Rimini;2006-03-27
+1572;Fiore;Francesca;1994;Latina;2013-02-23
+1573;De Rosa;Camilla;1992;Ancona;2004-11-03
+1574;Pellegrino;Giulio;1975;Firenze;1996-09-17
+1575;Giuliani;Leonardo;1971;Piacenza;2003-12-04
+1576;Rizzi;Valeria;1990;Andria;2007-10-03
+1577;Di Stefano;Irene;1968;Monza;2003-04-20
+1578;Cattaneo;Marta;1978;Bolzano;1997-08-01
+1579;Rossetti;Domenico;1950;Lecce;2004-07-20
+1580;Orlando;Giorgia;1966;Bari;2010-07-28
+1581;Basile;Valentina;1967;Reggio Emilia;2012-09-29
+1582;Neri;Elisa;1970;Venezia;2008-11-15
+1583;Barone;Giorgia;1999;Modena;1996-03-10
+1584;Palmieri;Martina;1991;Torino;2007-01-23
+1585;Riva;Claudio;1990;Pescara;2002-09-11
+1586;Romeo;Angelo;2000;Reggio Calabria;2014-03-21
+1587;Franco;Martina;1977;Reggio Calabria;1999-05-28
+1588;Sorrentino;Valentina;1963;Salerno;2004-11-19
+1589;Pagano;Lucia;1992;Terni;2003-11-17
+1590;D'Agostino;Nicola;1985;Foggia;2011-11-25
+1591;Piras;Paolo;1941;Lecce;2017-03-23
+1592;Ruggiero;Stefano;1964;Udine;2007-03-27
+1593;Montanari;Alex;1970;Palermo;2005-12-18
+1594;Battaglia;Salvatore;1994;Latina;2007-01-03
+1595;Bellini;Marta;1954;Verona;1998-05-03
+1596;Castelli;Stefano;1978;Terni;2009-06-22
+1597;Guerra;Michele;1943;Modena;1997-03-29
+1598;Poli;Jacopo;1966;Napoli;2009-08-22
+1599;Valente;Mattia;1970;Sassari;2001-05-01
+1600;Ferretti;Nicole;1989;Foggia;2007-03-06
+1601;Rossi;Stefania;1973;Modena;2011-04-27
+1602;Russo;Dario;1978;Firenze;2001-08-29
+1603;Ferrari;Martina;1950;Venezia;2007-09-06
+1604;Esposito;Irene;1941;Bologna;2000-04-04
+1605;Bianchi;Nicola;1982;Taranto;2002-02-05
+1606;Romano;Monica;1998;Giugliano in Campania;2002-03-13
+1607;Colombo;Simona;1948;Udine;1997-09-28
+1608;Bruno;Claudia;1940;Firenze;1996-03-25
+1609;Ricci;Francesca;1980;Andria;2005-10-31
+1610;Greco;Alberto;1961;Trento;2013-09-22
+1611;Marino;Stefania;1954;Palermo;2017-01-03
+1612;Gallo;Arianna;1993;Lecce;1997-07-18
+1613;De Luca;Tommaso;1970;Lecce;2006-03-22
+1614;Conti;Debora;1950;Firenze;2000-08-19
+1615;Costa;Monica;1979;Prato;2003-12-04
+1616;Mancini;Elisa;1953;Terni;1999-03-19
+1617;Giordano;Enrico;1992;Cesena;2012-07-16
+1618;Rizzo;Dario;1990;Palermo;2013-07-02
+1619;Lombardi;Giulia;1964;Parma;2003-07-15
+1620;Barbieri;Anna;1941;Ferrara;2008-07-29
+1621;Moretti;Valentina;1994;Reggio Calabria;2013-07-10
+1622;Fontana;Elena;1997;Prato;2017-04-23
+1623;Caruso;Domenico;1958;Messina;2017-09-15
+1624;Mariani;Giovanni;1962;Cesena;2015-02-02
+1625;Ferrara;Angela;1995;Siracusa;2000-05-15
+1626;Santoro;Erica;1957;Ravenna;1996-04-25
+1627;Rinaldi;Stefano;1957;Arezzo;2017-05-21
+1628;Leone;Mattia;1967;Cesena;1999-06-22
+1629;D'Angelo;Marta;1941;Livorno;2010-08-25
+1630;Longo;Roberto;1995;Perugia;2010-02-05
+1631;Galli;Giuseppe;1964;Reggio Calabria;2016-05-09
+1632;Martini;Elisa;1965;Rimini;2002-09-30
+1633;Martinelli;Valeria;1972;Andria;1998-05-14
+1634;Serra;Riccardo;1998;Napoli;1997-01-11
+1635;Conte;Camilla;1953;Taranto;2000-11-18
+1636;Vitale;Emanuele;1953;Ancona;2003-02-18
+1637;De Santis;Giovanni;1953;Sassari;2016-12-19
+1638;Marchetti;Alessio;1951;Reggio Calabria;2011-07-19
+1639;Messina;Christian;1963;Padova;2009-07-19
+1640;Gentile;Giacomo;1974;Parma;2010-02-14
+1641;Villa;Serena;2000;Ravenna;2009-02-05
+1642;Marini;Luigi;1975;Napoli;2006-02-05
+1643;Lombardo;Roberto;1946;Milano;2006-02-06
+1644;Coppola;Vanessa;1976;Bari;2017-08-15
+1645;Ferri;Giada;1992;Trieste;1999-05-29
+1646;Parisi;Monica;1992;Parma;1998-08-19
+1647;De Angelis;Greta;1953;Trieste;2010-04-30
+1648;Bianco;Mattia;1986;Giugliano in Campania;2012-10-08
+1649;Amato;Salvatore;1953;Trieste;1999-07-21
+1650;Fabbri;Anna;1971;Ferrara;2005-11-15
+1651;Gatti;Andrea;1952;Piacenza;2015-01-05
+1652;Sala;Enrico;1958;Reggio Emilia;2005-02-18
+1653;Morelli;Nicola;1986;Lecce;2000-05-28
+1654;Grasso;Enrico;1989;Torino;2015-04-24
+1655;Pellegrini;Eleonora;1973;Ancona;2003-07-09
+1656;Ferraro;Roberto;1979;Vicenza;2005-05-22
+1657;Monti;Nicolò;1986;Arezzo;2010-01-29
+1658;Palumbo;Giulia;1944;Foggia;2002-06-06
+1659;Grassi;Noemi;1999;Napoli;2011-02-13
+1660;Testa;Giacomo;1949;Trieste;2006-07-25
+1661;Valentini;Martina;1995;Brescia;2000-06-11
+1662;Carbone;Serena;1974;Bergamo;1998-09-30
+1663;Benedetti;Giada;1952;Siracusa;2013-05-14
+1664;Silvestri;Simona;1975;Ravenna;2006-08-23
+1665;Farina;Erika;1980;Bolzano;2011-01-07
+1666;D'Amico;Simone;1973;Reggio Emilia;2004-07-26
+1667;Martino;Nicole;1948;Perugia;2010-11-29
+1668;Bernardi;Giacomo;1959;Taranto;2014-12-05
+1669;Caputo;Valentina;1948;Cesena;1999-05-12
+1670;Mazza;Paola;1943;Perugia;2009-01-12
+1671;Sanna;Elisa;1979;Siracusa;2006-03-29
+1672;Fiore;Mattia;1945;Reggio Emilia;2015-11-07
+1673;De Rosa;Edoardo;1941;Ferrara;2013-02-11
+1674;Pellegrino;Sara;1963;Trento;2013-02-23
+1675;Giuliani;Laura;1976;Giugliano in Campania;2006-12-03
+1676;Rizzi;Fabio;2000;Napoli;2016-05-12
+1677;Di Stefano;Giuseppe;1951;Prato;1999-06-18
+1678;Cattaneo;Jacopo;1982;Lecce;2011-09-10
+1679;Rossetti;Gianluca;1949;Bari;2007-12-06
+1680;Orlando;Caterina;1967;Forlì;1999-02-15
+1681;Basile;Serena;1994;Latina;2014-10-03
+1682;Neri;Valeria;1983;Catania;2017-06-30
+1683;Barone;Giacomo;1950;Bolzano;1997-07-09
+1684;Palmieri;Chiara;1959;Prato;2013-04-16
+1685;Riva;Giuseppe;1998;Bolzano;2016-02-13
+1686;Romeo;Nicole;1960;Bolzano;2010-12-28
+1687;Franco;Elena;1965;Bologna;2017-03-01
+1688;Sorrentino;Stefania;1976;Brescia;2005-03-19
+1689;Pagano;Francesco;1978;Palermo;2015-07-13
+1690;D'Agostino;Valeria;1989;Cesena;2000-10-24
+1691;Piras;Simona;1988;Torino;2009-02-25
+1692;Ruggiero;Claudio;1946;Prato;1997-06-28
+1693;Montanari;Alice;1954;Brescia;2000-03-16
+1694;Battaglia;Valerio;1989;Reggio Calabria;2011-08-01
+1695;Bellini;Silvia;1965;Ancona;2011-02-01
+1696;Castelli;Michele;1988;Genova;2007-10-11
+1697;Guerra;Maria;1998;Ancona;2004-02-01
+1698;Poli;Luigi;1945;Taranto;2012-11-04
+1699;Valente;Roberta;1948;Genova;1997-01-05
+1700;Ferretti;Jessica;2000;Novara;2011-02-21
+1701;Rossi;Alberto;2000;Bergamo;2007-05-07
+1702;Russo;Nicole;1992;Modena;2014-04-06
+1703;Ferrari;Lucia;1976;Vicenza;2014-04-25
+1704;Esposito;Cristina;1993;Venezia;1998-11-27
+1705;Bianchi;Valerio;1964;Siracusa;1998-02-16
+1706;Romano;Simone;1966;Cagliari;1998-09-28
+1707;Colombo;Francesco;1979;Bologna;2003-09-30
+1708;Bruno;Angela;1965;Modena;2013-09-24
+1709;Ricci;Alessandro;1945;Reggio Calabria;2003-04-29
+1710;Greco;Mattia;1940;Bologna;2013-02-23
+1711;Marino;Noemi;1950;Cesena;2012-07-26
+1712;Gallo;Giada;1943;Foggia;2008-09-28
+1713;De Luca;Nicolò;1978;Genova;2015-04-04
+1714;Conti;Eleonora;1980;Salerno;2006-08-21
+1715;Costa;Beatrice;1995;Prato;2008-10-13
+1716;Mancini;Federico;1940;Taranto;2003-06-24
+1717;Giordano;Chiara;1951;Genova;1997-05-15
+1718;Rizzo;Stefano;1961;Catania;2004-10-10
+1719;Lombardi;Salvatore;1992;Cesena;2015-12-06
+1720;Barbieri;Nicolò;1988;Messina;1997-07-13
+1721;Moretti;Simona;1956;Ravenna;2008-04-07
+1722;Fontana;Giulia;1944;Reggio Calabria;2011-10-01
+1723;Caruso;Luca;1991;Parma;1998-01-07
+1724;Mariani;Alessia;1948;Parma;2014-03-16
+1725;Ferrara;Matteo;1997;Verona;2001-12-01
+1726;Santoro;Giacomo;1967;Prato;2009-10-07
+1727;Rinaldi;Leonardo;1997;Bergamo;1998-10-15
+1728;Leone;Angelo;1959;Ferrara;2011-05-23
+1729;D'Angelo;Filippo;1952;Catania;2014-01-18
+1730;Longo;Valeria;1951;Latina;1996-03-01
+1731;Galli;Sofia;1940;Lecce;2008-03-25
+1732;Martini;Antonio;1949;Parma;2014-07-24
+1733;Martinelli;Giada;2000;Cesena;2007-02-10
+1734;Serra;Lisa;1973;Prato;1999-10-03
+1735;Conte;Alessandra;1987;Reggio Emilia;2002-01-28
+1736;Vitale;Cristina;1940;Trieste;2006-11-10
+1737;De Santis;Edoardo;1966;Sassari;2008-04-03
+1738;Marchetti;Giorgio;1987;Perugia;1999-06-26
+1739;Messina;Roberto;1966;Siracusa;2003-03-28
+1740;Gentile;Salvatore;1950;Verona;2000-11-01
+1741;Villa;Jacopo;1984;Salerno;2005-12-24
+1742;Marini;Veronica;1972;Lecce;2002-08-12
+1743;Lombardo;Roberto;1951;Trento;1997-10-05
+1744;Coppola;Roberta;1983;Perugia;2006-04-23
+1745;Ferri;Nicolò;1997;Salerno;2009-03-30
+1746;Parisi;Federico;1977;Siracusa;1999-06-20
+1747;De Angelis;Sara;1985;Reggio Calabria;2012-10-28
+1748;Bianco;Nicole;1957;Lecce;2009-06-27
+1749;Amato;Claudia;1941;Cagliari;2012-05-28
+1750;Fabbri;Elena;1976;Latina;2013-09-07
+1751;Gatti;Federico;1976;Terni;2010-03-24
+1752;Sala;Giorgio;1992;Reggio Calabria;2016-04-06
+1753;Morelli;Giacomo;1956;Napoli;2001-10-25
+1754;Grasso;Giovanni;1975;Messina;2005-03-28
+1755;Pellegrini;Elisa;2000;Taranto;1999-01-26
+1756;Ferraro;Sara;1978;Arezzo;1999-09-19
+1757;Monti;Monica;1961;Milano;2004-12-30
+1758;Palumbo;Sara;1972;Bolzano;2007-04-06
+1759;Grassi;Lucia;1994;Perugia;1999-05-08
+1760;Testa;Michele;1995;Forlì;2006-08-29
+1761;Valentini;Luca;1973;Prato;1998-04-14
+1762;Carbone;Angelo;1983;Cesena;2008-07-12
+1763;Benedetti;Erica;1950;Cagliari;1997-04-03
+1764;Silvestri;Arianna;1957;Modena;2012-01-28
+1765;Farina;Roberta;1984;Napoli;2016-05-27
+1766;D'Amico;Marco;1952;Trieste;2007-04-02
+1767;Martino;Leonardo;1972;Sassari;2003-03-23
+1768;Bernardi;Mirko;1986;Rimini;2001-09-16
+1769;Caputo;Riccardo;1950;Salerno;2014-09-22
+1770;Mazza;Daniele;1962;Novara;2012-03-09
+1771;Sanna;Federico;1960;Vicenza;2007-03-08
+1772;Fiore;Giorgio;1951;Lecce;1996-04-29
+1773;De Rosa;Beatrice;1958;Ravenna;2007-01-28
+1774;Pellegrino;Matteo;1966;Trento;2015-11-17
+1775;Giuliani;Francesca;1940;Prato;2010-05-17
+1776;Rizzi;Salvatore;1960;Milano;2015-09-30
+1777;Di Stefano;Michela;1987;Trieste;2011-03-15
+1778;Cattaneo;Vanessa;1968;Trieste;2001-03-27
+1779;Rossetti;Tommaso;1951;Bari;2015-09-23
+1780;Orlando;Christian;1999;Udine;2009-06-28
+1781;Basile;Alessandra;1993;Monza;2001-12-07
+1782;Neri;Greta;1980;Siracusa;2015-09-07
+1783;Barone;Giulia;1975;Torino;1995-11-23
+1784;Palmieri;Dario;1947;Giugliano in Campania;2007-02-19
+1785;Riva;Francesca;1949;Reggio Emilia;2017-02-25
+1786;Romeo;Luca;1940;Andria;2012-06-05
+1787;Franco;Davide;1944;Genova;2007-11-06
+1788;Sorrentino;Jacopo;1960;Ravenna;2001-05-16
+1789;Pagano;Nicola;1971;Bolzano;2000-10-29
+1790;D'Agostino;Cristina;1955;Bolzano;2002-06-02
+1791;Piras;Francesco;1978;Latina;2014-06-14
+1792;Ruggiero;Giulia;1993;Firenze;1997-07-07
+1793;Montanari;Vincenzo;1987;Piacenza;1996-11-08
+1794;Battaglia;Nicola;1954;Sassari;1998-06-26
+1795;Bellini;Edoardo;1976;Bergamo;2001-10-14
+1796;Castelli;Pietro;1997;Brescia;2005-02-23
+1797;Guerra;Nicolò;1977;Giugliano in Campania;1997-09-11
+1798;Poli;Valentina;1985;Bologna;2012-10-15
+1799;Valente;Maria;1986;Cagliari;2008-06-25
+1800;Ferretti;Elena;1993;Reggio Emilia;2003-04-29
+1801;Rossi;Mattia;1998;Foggia;2013-05-07
+1802;Russo;Marta;1995;Rimini;1996-01-05
+1803;Ferrari;Valerio;1957;Cesena;1999-08-23
+1804;Esposito;Andrea;1942;Cesena;2012-01-27
+1805;Bianchi;Claudia;1973;Palermo;2001-08-23
+1806;Romano;Greta;1942;Ferrara;2014-09-08
+1807;Colombo;Simona;1949;Ferrara;2009-06-30
+1808;Bruno;Veronica;1999;Piacenza;2002-01-02
+1809;Ricci;Vincenzo;1948;Cesena;2004-06-17
+1810;Greco;Sofia;1991;Perugia;2000-08-19
+1811;Marino;Christian;1976;Roma;1997-11-24
+1812;Gallo;Chiara;1993;Napoli;2009-06-17
+1813;De Luca;Valentina;1959;Cesena;2008-08-12
+1814;Conti;Giulia;2000;Salerno;1996-05-09
+1815;Costa;Lucia;1999;Modena;2008-10-18
+1816;Mancini;Valeria;1984;Padova;2014-11-24
+1817;Giordano;Riccardo;1993;Udine;1998-04-03
+1818;Rizzo;Claudio;1990;Reggio Calabria;2013-10-12
+1819;Lombardi;Valentina;1969;Roma;2008-06-05
+1820;Barbieri;Camilla;1992;Cesena;1998-12-23
+1821;Moretti;Giuseppe;1981;Reggio Calabria;2010-09-30
+1822;Fontana;Dario;1946;Forlì;1998-05-16
+1823;Caruso;Pietro;1963;Milano;1999-10-20
+1824;Mariani;Angela;1999;Verona;2006-06-04
+1825;Ferrara;Angelo;1998;Piacenza;1998-09-04
+1826;Santoro;Giovanni;1953;Piacenza;2006-05-18
+1827;Rinaldi;Mirko;1950;Arezzo;2016-12-08
+1828;Leone;Salvatore;1953;Foggia;2017-04-01
+1829;D'Angelo;Sara;1990;Torino;2006-11-21
+1830;Longo;Marco;1994;Novara;1997-05-14
+1831;Galli;Anna;1975;Ferrara;2005-08-09
+1832;Martini;Irene;1963;Palermo;2012-05-08
+1833;Martinelli;Jessica;1957;Venezia;2015-07-29
+1834;Serra;Stefania;1948;Siracusa;2014-09-28
+1835;Conte;Arianna;1993;Latina;1999-08-16
+1836;Vitale;Michela;1974;Andria;2014-09-23
+1837;De Santis;Daniele;1988;Pescara;1996-09-11
+1838;Marchetti;Filippo;1978;Trieste;1999-08-25
+1839;Messina;Maria;1970;Terni;2003-04-29
+1840;Gentile;Giorgio;1966;Ferrara;2013-02-19
+1841;Villa;Angela;1944;Vicenza;1997-07-27
+1842;Marini;Sofia;1992;Firenze;2015-06-11
+1843;Lombardo;Domenico;1942;Reggio Emilia;2005-06-05
+1844;Coppola;Alessandro;1943;Reggio Calabria;2005-08-05
+1845;Ferri;Simona;1967;Messina;2016-01-12
+1846;Parisi;Laura;1953;Piacenza;1999-03-24
+1847;De Angelis;Marco;1976;Prato;2006-05-13
+1848;Bianco;Giorgia;1946;Torino;2006-03-12
+1849;Amato;Fabio;1994;Monza;2009-07-18
+1850;Fabbri;Martina;1969;Venezia;2015-09-12
+1851;Gatti;Gianluca;1995;Lecce;2007-04-02
+1852;Sala;Valentina;1963;Sassari;2007-03-25
+1853;Morelli;Michela;1950;Terni;2002-09-07
+1854;Grasso;Francesco;2000;Trento;2015-12-02
+1855;Pellegrini;Alessandro;1959;Modena;2014-07-29
+1856;Ferraro;Lucia;1966;Prato;2007-09-14
+1857;Monti;Francesca;1971;Ferrara;2002-11-18
+1858;Palumbo;Sofia;1959;Rimini;1997-12-29
+1859;Grassi;Michele;1971;Rimini;2013-06-23
+1860;Testa;Matteo;1991;Salerno;2016-04-12
+1861;Valentini;Giacomo;1997;Bologna;2008-03-04
+1862;Carbone;Chiara;1979;Reggio Calabria;1999-01-30
+1863;Benedetti;Caterina;1988;Siracusa;2011-03-10
+1864;Silvestri;Lisa;1969;Rimini;2015-11-02
+1865;Farina;Martina;1982;Venezia;2005-02-01
+1866;D'Amico;Luigi;1949;Napoli;2014-11-18
+1867;Martino;Mattia;1956;Bergamo;2016-03-19
+1868;Bernardi;Beatrice;1991;Piacenza;2005-04-29
+1869;Caputo;Domenico;1951;Ancona;1998-12-28
+1870;Mazza;Claudio;1962;Modena;2001-03-13
+1871;Sanna;Valerio;1996;Salerno;1996-05-29
+1872;Fiore;Serena;1963;Lecce;2013-10-09
+1873;De Rosa;Erica;1976;Trento;2008-01-09
+1874;Pellegrino;Giovanni;1940;Udine;2007-02-08
+1875;Giuliani;Maria;1970;Taranto;2008-10-27
+1876;Rizzi;Serena;1978;Monza;2014-11-23
+1877;Di Stefano;Michele;1965;Rimini;2002-09-23
+1878;Cattaneo;Elisa;1945;Novara;2012-01-08
+1879;Rossetti;Gabriele;1950;Ferrara;2011-10-14
+1880;Orlando;Filippo;1978;Livorno;1998-07-09
+1881;Basile;Roberto;1958;Reggio Emilia;2001-10-10
+1882;Neri;Domenico;1942;Arezzo;2003-05-16
+1883;Barone;Angelo;1987;Bolzano;2004-07-25
+1884;Palmieri;Monica;1952;Padova;2012-11-25
+1885;Riva;Eleonora;1996;Siracusa;1996-05-24
+1886;Romeo;Arianna;1962;Lecce;1998-04-05
+1887;Franco;Luca;1987;Bolzano;2000-02-07
+1888;Sorrentino;Simone;1968;Vicenza;1995-11-25
+1889;Pagano;Dario;1947;Perugia;2002-04-15
+1890;D'Agostino;Francesca;1964;Taranto;2001-06-07
+1891;Piras;Giacomo;1970;Salerno;1998-11-06
+1892;Ruggiero;Ilaria;1991;Brescia;2004-07-27
+1893;Montanari;Enrico;1982;Cesena;2004-07-20
+1894;Battaglia;Vanessa;1965;Cagliari;2011-08-10
+1895;Bellini;Vanessa;1953;Piacenza;2015-11-23
+1896;Castelli;Alessia;1999;Messina;2006-12-26
+1897;Guerra;Debora;1954;Piacenza;1999-09-15
+1898;Poli;Erika;1944;Prato;2005-11-17
+1899;Valente;Jessica;1998;Modena;2002-03-09
+1900;Ferretti;Ilaria;1968;Foggia;2008-10-10
+1901;Rossi;Roberto;1956;Rimini;1997-01-28
+1902;Russo;Martina;1966;Padova;2017-01-19
+1903;Ferrari;Alex;1972;Bolzano;2007-10-13
+1904;Esposito;Enrico;1966;Arezzo;2014-10-20
+1905;Bianchi;Elisa;1985;Novara;2013-12-24
+1906;Romano;Enrico;1992;Sassari;2010-08-09
+1907;Colombo;Luigi;1988;Milano;1997-06-03
+1908;Bruno;Laura;1993;Ravenna;2012-11-28
+1909;Ricci;Lorenzo;1943;Lecce;2005-03-20
+1910;Greco;Giorgio;1971;Lecce;1997-02-10
+1911;Marino;Irene;1956;Giugliano in Campania;2002-06-05
+1912;Gallo;Gianluca;1943;Salerno;1996-05-15
+1913;De Luca;Lucia;1983;Andria;2000-05-28
+1914;Conti;Tommaso;1947;Reggio Emilia;2013-01-28
+1915;Costa;Mattia;1996;Ferrara;1999-09-15
+1916;Mancini;Irene;1962;Livorno;2011-01-08
+1917;Giordano;Serena;1975;Sassari;2000-02-14
+1918;Rizzo;Angela;1969;Cesena;1999-03-01
+1919;Lombardi;Davide;1981;Forlì;2003-06-20
+1920;Barbieri;Federico;1978;Giugliano in Campania;2002-12-05
+1921;Moretti;Jacopo;1944;Brescia;2001-01-20
+1922;Fontana;Gianluca;1970;Modena;2002-10-02
+1923;Caruso;Matteo;1988;Venezia;2001-10-21
+1924;Mariani;Ilaria;1944;Modena;2011-09-27
+1925;Ferrara;Vincenzo;1947;Parma;1998-06-11
+1926;Santoro;Simone;1983;Siracusa;2010-08-05
+1927;Rinaldi;Erica;1991;Novara;2010-12-07
+1928;Leone;Christian;1969;Palermo;2009-03-27
+1929;D'Angelo;Gianluca;1974;Giugliano in Campania;2008-01-16
+1930;Longo;Luca;1958;Piacenza;2006-08-25
+1931;Galli;Jacopo;1987;Piacenza;2007-11-26
+1932;Martini;Roberto;1977;Arezzo;2007-03-07
+1933;Martinelli;Christian;1959;Messina;1996-03-13
+1934;Serra;Francesca;1951;Bergamo;2016-06-03
+1935;Conte;Debora;1969;Salerno;1999-09-19
+1936;Vitale;Simona;1947;Catania;2003-06-05
+1937;De Santis;Erica;1993;Terni;2016-01-15
+1938;Marchetti;Lisa;1999;Modena;1998-09-02
+1939;Messina;Greta;1942;Trento;2014-11-19
+1940;Gentile;Emanuele;1947;Forlì;2009-04-26
+1941;Villa;Giada;1950;Trento;2011-02-14
+1942;Marini;Valentina;1968;Genova;2015-10-31
+1943;Lombardo;Jessica;1982;Roma;1998-08-29
+1944;Coppola;Jacopo;1963;Catania;2005-08-12
+1945;Ferri;Leonardo;1987;Catania;2007-09-01
+1946;Parisi;Elisa;1953;Pescara;1999-12-03
+1947;De Angelis;Marta;1944;Messina;2005-12-16
+1948;Bianco;Alessio;1961;Ravenna;2011-11-04
+1949;Amato;Federico;1942;Padova;2017-05-07
+1950;Fabbri;Angela;1995;Udine;2009-09-25
+1951;Gatti;Lucia;1947;Pescara;2000-05-09
+1952;Sala;Gaia;1993;Giugliano in Campania;2002-11-20
+1953;Morelli;Manuel;1968;Forlì;2011-06-20
+1954;Grasso;Christian;1995;Ravenna;2000-06-13
+1955;Pellegrini;Paolo;1947;Padova;2000-03-30
+1956;Ferraro;Monica;1967;Firenze;1998-12-13
+1957;Monti;Arianna;1950;Bari;2013-07-04
+1958;Palumbo;Roberta;1973;Cagliari;1997-06-25
+1959;Grassi;Giorgia;1975;Taranto;2006-06-14
+1960;Testa;Emanuele;1942;Siracusa;2015-07-19
+1961;Valentini;Martina;1980;Verona;2012-07-23
+1962;Carbone;Daniele;1972;Salerno;2007-05-01
+1963;Benedetti;Marco;1959;Torino;2000-05-23
+1964;Silvestri;Nicole;1976;Milano;1996-07-16
+1965;Farina;Gaia;1963;Ravenna;2014-06-02
+1966;D'Amico;Giulia;1967;Milano;1997-03-03
+1967;Martino;Paola;1998;Lecce;2009-07-08
+1968;Bernardi;Jacopo;1984;Parma;2008-12-09
+1969;Caputo;Noemi;2000;Vicenza;2007-01-04
+1970;Mazza;Alice;1973;Ancona;2017-02-15
+1971;Sanna;Alice;1976;Reggio Calabria;2011-07-05
+1972;Fiore;Elisa;1980;Cesena;2015-05-26
+1973;De Rosa;Manuel;1977;Arezzo;2002-04-02
+1974;Pellegrino;Eleonora;1988;Prato;2001-05-30
+1975;Giuliani;Davide;1950;Lecce;2003-10-17
+1976;Rizzi;Roberta;1972;Latina;2010-02-04
+1977;Di Stefano;Davide;1948;Napoli;2016-10-21
+1978;Cattaneo;Gabriele;1952;Prato;2008-04-16
+1979;Rossetti;Laura;1999;Giugliano in Campania;2017-03-24
+1980;Orlando;Sofia;1952;Ancona;2009-08-05
+1981;Basile;Stefania;1949;Siracusa;2009-02-06
+1982;Neri;Caterina;1940;Messina;2008-04-25
+1983;Barone;Monica;1949;Palermo;2012-03-15
+1984;Palmieri;Alex;1962;Ferrara;2005-07-05
+1985;Riva;Serena;1999;Salerno;2012-01-18
+1986;Romeo;Erika;1963;Novara;1998-06-29
+1987;Franco;Alessandro;1985;Ancona;2006-11-30
+1988;Sorrentino;Fabio;1977;Sassari;2001-09-16
+1989;Pagano;Mattia;1984;Palermo;2003-05-22
+1990;D'Agostino;Monica;1993;Messina;2014-07-24
+1991;Piras;Michela;1998;Parma;2001-10-30
+1992;Ruggiero;Luigi;1949;Perugia;2001-01-23
+1993;Montanari;Noemi;1979;Napoli;1995-11-01
+1994;Battaglia;Pietro;1945;Milano;2014-06-18
+1995;Bellini;Claudio;1979;Livorno;2013-01-22
+1996;Castelli;Dario;1962;Reggio Calabria;2003-05-13
+1997;Guerra;Jessica;1999;Prato;1998-03-07
+1998;Poli;Valerio;1978;Udine;2010-09-07
+1999;Valente;Domenico;1971;Parma;2002-10-16
+2000;Ferretti;Angelo;1990;Venezia;2000-08-22
